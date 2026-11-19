@@ -1,0 +1,863 @@
+Meter_Record_ID,Household_ID,Reading_Date,Household_Type,Building_Type,Zone,Water_Usage_Liters,Month,Weekday,Year_Month
+WM000000,HH00329,2025-11-16,Independent,Mixed Use,Zone A,2754.5,November,Sunday,2025-11
+WM000001,HH00194,2025-08-14,Hostel,Mixed Use,Zone C,6304.6,August,Thursday,2025-08
+WM000002,HH00314,2026-06-30,Independent,Mixed Use,Zone E,7307.3,June,Tuesday,2026-06
+WM000003,HH00229,2026-01-10,Hostel,Mixed Use,Zone E,11604.3,January,Saturday,2026-01
+WM000004,HH00287,2025-03-07,Apartment,Residential,Zone C,5996.4,March,Friday,2025-03
+WM000005,HH00088,2025-08-01,Villa,Residential,Zone B,3645.1,August,Friday,2025-08
+WM000006,HH00372,2025-12-24,Villa,Commercial,Zone B,2702.6,December,Wednesday,2025-12
+WM000007,HH00358,2025-08-02,Hostel,Residential,Zone A,11215.6,August,Saturday,2025-08
+WM000008,HH00370,2025-07-28,Independent,Mixed Use,Zone C,6819.5,July,Monday,2025-07
+WM000009,HH00076,2026-10-24,Hostel,Commercial,Zone A,3391.3,October,Saturday,2026-10
+WM000010,HH00198,2025-01-09,Apartment,Mixed Use,Zone C,5348.2,January,Thursday,2025-01
+WM000011,HH00132,2025-07-31,Independent,Mixed Use,Zone A,840.7,July,Thursday,2025-07
+WM000012,HH00232,2025-12-27,Apartment,Residential,Zone C,541.6,December,Saturday,2025-12
+WM000013,HH00193,2026-06-01,Apartment,Mixed Use,Zone A,4441.9,June,Monday,2026-06
+WM000014,HH00188,2026-06-08,Villa,Residential,Zone B,8637.4,June,Monday,2026-06
+WM000015,HH00409,2025-06-01,Independent,Residential,Zone B,8928.5,June,Sunday,2025-06
+WM000016,HH00276,2026-02-15,Hostel,Mixed Use,Zone D,556.2,February,Sunday,2026-02
+WM000017,HH00433,2026-04-15,Hostel,Mixed Use,Zone D,8358.0,April,Wednesday,2026-04
+WM000018,HH00235,2025-02-01,Apartment,Residential,Zone D,9225.4,February,Saturday,2025-02
+WM000019,HH00337,2026-01-10,Hostel,Residential,Zone C,3163.7,January,Saturday,2026-01
+WM000020,HH00134,2026-03-10,Villa,Mixed Use,Zone A,2260.3,March,Tuesday,2026-03
+WM000021,HH00212,2025-04-24,Villa,Mixed Use,Zone E,8620.4,April,Thursday,2025-04
+WM000022,HH00190,2026-04-25,Independent,Residential,Zone D,7027.3,April,Saturday,2026-04
+WM000023,HH00344,2025-09-29,Villa,Residential,Zone D,5062.7,September,Monday,2025-09
+WM000024,HH00254,2025-02-18,Apartment,Commercial,Zone C,7154.8,February,Tuesday,2025-02
+WM000025,HH00145,2025-10-20,Apartment,Commercial,Zone C,9818.4,October,Monday,2025-10
+WM000026,HH00360,2025-09-16,Independent,Mixed Use,Zone E,1570.8,September,Tuesday,2025-09
+WM000027,HH00357,2026-05-11,Hostel,Residential,Zone B,6392.9,May,Monday,2026-05
+WM000028,HH00061,2025-07-19,Hostel,Mixed Use,Zone D,6402.4,July,Saturday,2025-07
+WM000029,HH00180,2026-05-25,Villa,Commercial,Zone E,3773.2,May,Monday,2026-05
+WM000030,HH00253,2026-05-17,Hostel,Residential,Zone E,9392.5,May,Sunday,2026-05
+WM000031,HH00401,2026-02-23,Hostel,Residential,Zone D,7969.5,February,Monday,2026-02
+WM000032,HH00422,2025-09-04,Independent,Commercial,Zone D,10707.7,September,Thursday,2025-09
+WM000033,HH00113,2025-03-20,Apartment,Mixed Use,Zone A,4711.4,March,Thursday,2025-03
+WM000034,HH00184,2025-05-20,Independent,Commercial,Zone C,6309.3,May,Tuesday,2025-05
+WM000035,HH00066,2025-07-20,Villa,Mixed Use,Zone E,2158.3,July,Sunday,2025-07
+WM000036,HH00031,2025-12-22,Independent,Commercial,Zone B,10306.7,December,Monday,2025-12
+WM000037,HH00151,2026-09-17,Hostel,Mixed Use,Zone B,7613.9,September,Thursday,2026-09
+WM000038,HH00382,2026-05-24,Independent,Commercial,Zone D,10970.9,May,Sunday,2026-05
+WM000039,HH00181,2026-08-11,Hostel,Commercial,Zone E,7769.7,August,Tuesday,2026-08
+WM000040,HH00096,2025-09-20,Independent,Residential,Zone C,2042.0,September,Saturday,2025-09
+WM000041,HH00109,2025-02-08,Independent,Commercial,Zone E,6978.3,February,Saturday,2025-02
+WM000042,HH00314,2026-08-23,Apartment,Mixed Use,Zone C,11419.2,August,Sunday,2026-08
+WM000043,HH00247,2026-09-20,Independent,Mixed Use,Zone D,2429.5,September,Sunday,2026-09
+WM000044,HH00208,2026-03-12,Villa,Residential,Zone E,4274.1,March,Thursday,2026-03
+WM000045,HH00164,2025-11-21,Independent,Residential,Zone E,7925.9,November,Friday,2025-11
+WM000046,HH00423,2025-03-19,Independent,Residential,Zone E,7050.0,March,Wednesday,2025-03
+WM000047,HH00064,2026-06-07,Apartment,Commercial,Zone E,2605.3,June,Sunday,2026-06
+WM000048,HH00348,2026-10-16,Villa,Mixed Use,Zone C,2351.0,October,Friday,2026-10
+WM000049,HH00448,2025-11-22,Villa,Residential,Zone A,2190.1,November,Saturday,2025-11
+WM000050,HH00361,2026-04-30,Villa,Residential,Zone A,6660.3,April,Thursday,2026-04
+WM000051,HH00243,2025-03-04,Apartment,Mixed Use,Zone E,10989.9,March,Tuesday,2025-03
+WM000052,HH00270,2025-06-07,Hostel,Mixed Use,Zone E,6269.6,June,Saturday,2025-06
+WM000053,HH00385,2026-02-21,Apartment,Mixed Use,Zone B,5212.8,February,Saturday,2026-02
+WM000054,HH00063,2025-07-27,Independent,Commercial,Zone A,2907.5,July,Sunday,2025-07
+WM000055,HH00364,2025-03-10,Apartment,Commercial,Zone C,10688.5,March,Monday,2025-03
+WM000056,HH00077,2025-11-12,Hostel,Mixed Use,Zone C,11846.5,November,Wednesday,2025-11
+WM000057,HH00066,2026-04-29,Independent,Commercial,Zone C,8667.9,April,Wednesday,2026-04
+WM000058,HH00020,2025-01-15,Villa,Residential,Zone B,6429.3,January,Wednesday,2025-01
+WM000059,HH00047,2025-08-30,Villa,Residential,Zone A,11002.9,August,Saturday,2025-08
+WM000060,HH00283,2026-08-22,Villa,Residential,Zone B,6538.6,August,Saturday,2026-08
+WM000061,HH00042,2025-02-02,Villa,Mixed Use,Zone C,4472.0,February,Sunday,2025-02
+WM000062,HH00310,2025-02-23,Villa,Mixed Use,Zone D,2650.2,February,Sunday,2025-02
+WM000063,HH00042,2026-09-09,Villa,Commercial,Zone B,2083.1,September,Wednesday,2026-09
+WM000064,HH00093,2025-04-25,Apartment,Mixed Use,Zone E,5663.6,April,Friday,2025-04
+WM000065,HH00164,2026-01-01,Independent,Mixed Use,Zone E,4978.0,January,Thursday,2026-01
+WM000066,HH00386,2025-12-25,Apartment,Mixed Use,Zone D,2881.5,December,Thursday,2025-12
+WM000067,HH00070,2026-02-07,Villa,Residential,Zone B,6347.0,February,Saturday,2026-02
+WM000068,HH00159,2026-06-18,Villa,Commercial,Zone C,8880.3,June,Thursday,2026-06
+WM000069,HH00049,2026-03-09,Villa,Residential,Zone E,7582.0,March,Monday,2026-03
+WM000070,HH00099,2026-09-20,Hostel,Commercial,Zone D,9391.6,September,Sunday,2026-09
+WM000071,HH00241,2026-03-04,Independent,Commercial,Zone C,9805.7,March,Wednesday,2026-03
+WM000072,HH00338,2025-03-19,Hostel,Mixed Use,Zone D,2062.8,March,Wednesday,2025-03
+WM000073,HH00236,2026-02-05,Villa,Commercial,Zone E,11907.2,February,Thursday,2026-02
+WM000074,HH00282,2025-01-11,Apartment,Residential,Zone C,2381.4,January,Saturday,2025-01
+WM000075,HH00159,2025-09-13,Apartment,Commercial,Zone B,8994.4,September,Saturday,2025-09
+WM000076,HH00090,2026-04-13,Independent,Residential,Zone B,7045.2,April,Monday,2026-04
+WM000077,HH00297,2026-10-05,Hostel,Commercial,Zone E,6461.2,October,Monday,2026-10
+WM000078,HH00374,2025-06-30,Independent,Residential,Zone C,10871.0,June,Monday,2025-06
+WM000079,HH00270,2025-03-06,Independent,Mixed Use,Zone B,9579.8,March,Thursday,2025-03
+WM000080,HH00048,2025-03-30,Independent,Commercial,Zone D,1155.2,March,Sunday,2025-03
+WM000081,HH00448,2025-09-29,Hostel,Mixed Use,Zone E,7715.5,September,Monday,2025-09
+WM000082,HH00086,2025-01-03,Apartment,Commercial,Zone D,6189.1,January,Friday,2025-01
+WM000083,HH00246,2025-08-03,Villa,Mixed Use,Zone E,5255.2,August,Sunday,2025-08
+WM000084,HH00345,2026-10-07,Villa,Mixed Use,Zone E,888.2,October,Wednesday,2026-10
+WM000085,HH00441,2025-08-30,Hostel,Residential,Zone D,10598.1,August,Saturday,2025-08
+WM000086,HH00243,2026-05-06,Independent,Commercial,Zone E,4261.8,May,Wednesday,2026-05
+WM000087,HH00413,2025-04-12,Hostel,Residential,Zone B,11990.4,April,Saturday,2025-04
+WM000088,HH00195,2025-08-18,Hostel,Residential,Zone E,9872.8,August,Monday,2025-08
+WM000089,HH00036,2025-11-13,Apartment,Commercial,Zone B,9732.8,November,Thursday,2025-11
+WM000090,HH00069,2026-02-04,Independent,Commercial,Zone E,7312.9,February,Wednesday,2026-02
+WM000091,HH00412,2025-12-28,Apartment,Residential,Zone D,10040.6,December,Sunday,2025-12
+WM000092,HH00041,2026-08-19,Hostel,Residential,Zone D,3386.9,August,Wednesday,2026-08
+WM000093,HH00415,2026-10-09,Apartment,Residential,Zone E,7314.8,October,Friday,2026-10
+WM000094,HH00196,2026-09-03,Hostel,Mixed Use,Zone E,7209.3,September,Thursday,2026-09
+WM000095,HH00429,2026-05-17,Hostel,Mixed Use,Zone E,5455.2,May,Sunday,2026-05
+WM000096,HH00442,2025-12-24,Independent,Residential,Zone C,7019.0,December,Wednesday,2025-12
+WM000097,HH00036,2026-04-01,Apartment,Mixed Use,Zone C,9192.2,April,Wednesday,2026-04
+WM000098,HH00280,2026-09-20,Hostel,Mixed Use,Zone A,2651.4,September,Sunday,2026-09
+WM000099,HH00014,2026-03-19,Independent,Mixed Use,Zone B,11727.2,March,Thursday,2026-03
+WM000100,HH00143,2026-05-22,Villa,Commercial,Zone E,5893.0,May,Friday,2026-05
+WM000101,HH00426,2026-03-02,Independent,Mixed Use,Zone C,8467.7,March,Monday,2026-03
+WM000102,HH00449,2026-01-01,Independent,Residential,Zone A,10925.7,January,Thursday,2026-01
+WM000103,HH00062,2025-10-05,Independent,Mixed Use,Zone B,11638.2,October,Sunday,2025-10
+WM000104,HH00448,2025-09-13,Villa,Commercial,Zone C,7246.4,September,Saturday,2025-09
+WM000105,HH00083,2025-09-16,Apartment,Commercial,Zone B,11534.2,September,Tuesday,2025-09
+WM000106,HH00152,2026-09-19,Villa,Residential,Zone E,7121.5,September,Saturday,2026-09
+WM000107,HH00234,2025-04-10,Independent,Residential,Zone E,3433.3,April,Thursday,2025-04
+WM000108,HH00098,2025-05-11,Apartment,Mixed Use,Zone D,6843.0,May,Sunday,2025-05
+WM000109,HH00029,2025-10-09,Hostel,Residential,Zone E,1859.0,October,Thursday,2025-10
+WM000110,HH00088,2025-12-31,Apartment,Mixed Use,Zone B,8847.1,December,Wednesday,2025-12
+WM000111,HH00029,2025-03-29,Hostel,Mixed Use,Zone A,3196.2,March,Saturday,2025-03
+WM000112,HH00264,2025-03-30,Hostel,Residential,Zone B,5275.1,March,Sunday,2025-03
+WM000113,HH00288,2025-08-07,Independent,Residential,Zone A,4829.9,August,Thursday,2025-08
+WM000114,HH00142,2025-03-31,Apartment,Mixed Use,Zone D,3214.1,March,Monday,2025-03
+WM000115,HH00376,2026-06-21,Villa,Mixed Use,Zone B,8780.1,June,Sunday,2026-06
+WM000116,HH00351,2025-02-10,Villa,Residential,Zone D,4168.2,February,Monday,2025-02
+WM000117,HH00152,2026-07-14,Apartment,Residential,Zone E,11330.7,July,Tuesday,2026-07
+WM000118,HH00160,2025-07-27,Hostel,Mixed Use,Zone D,576.5,July,Sunday,2025-07
+WM000119,HH00179,2026-03-07,Independent,Commercial,Zone B,5714.7,March,Saturday,2026-03
+WM000120,HH00274,2026-06-19,Independent,Residential,Zone D,5839.5,June,Friday,2026-06
+WM000121,HH00378,2025-09-01,Hostel,Mixed Use,Zone A,7222.0,September,Monday,2025-09
+WM000122,HH00112,2025-05-04,Hostel,Residential,Zone A,1879.7,May,Sunday,2025-05
+WM000123,HH00150,2026-05-28,Independent,Mixed Use,Zone D,10399.4,May,Thursday,2026-05
+WM000124,HH00216,2026-07-11,Hostel,Residential,Zone D,3053.8,July,Saturday,2026-07
+WM000125,HH00114,2025-12-11,Independent,Residential,Zone D,4902.9,December,Thursday,2025-12
+WM000126,HH00296,2026-10-27,Independent,Mixed Use,Zone D,6992.4,October,Tuesday,2026-10
+WM000127,HH00037,2026-05-12,Villa,Mixed Use,Zone C,554.4,May,Tuesday,2026-05
+WM000128,HH00445,2025-12-18,Independent,Residential,Zone C,7659.9,December,Thursday,2025-12
+WM000129,HH00127,2026-06-10,Villa,Residential,Zone D,2839.2,June,Wednesday,2026-06
+WM000130,HH00137,2026-06-11,Villa,Residential,Zone E,9245.3,June,Thursday,2026-06
+WM000131,HH00123,2026-04-07,Villa,Commercial,Zone C,3807.1,April,Tuesday,2026-04
+WM000132,HH00339,2026-03-23,Hostel,Residential,Zone C,6402.4,March,Monday,2026-03
+WM000133,HH00077,2026-07-16,Independent,Residential,Zone B,6248.1,July,Thursday,2026-07
+WM000134,HH00272,2025-11-04,Villa,Residential,Zone A,10632.8,November,Tuesday,2025-11
+WM000135,HH00301,2025-12-22,Independent,Mixed Use,Zone D,4594.0,December,Monday,2025-12
+WM000136,HH00339,2025-07-10,Apartment,Residential,Zone A,6277.6,July,Thursday,2025-07
+WM000137,HH00239,2025-08-22,Independent,Residential,Zone A,6653.9,August,Friday,2025-08
+WM000138,HH00276,2026-03-26,Independent,Mixed Use,Zone C,1773.7,March,Thursday,2026-03
+WM000139,HH00205,2026-07-08,Apartment,Mixed Use,Zone D,6745.4,July,Wednesday,2026-07
+WM000140,HH00049,2025-06-04,Villa,Commercial,Zone D,6124.9,June,Wednesday,2025-06
+WM000141,HH00007,2026-10-23,Hostel,Commercial,Zone E,2466.3,October,Friday,2026-10
+WM000142,HH00107,2025-09-04,Independent,Residential,Zone E,7649.8,September,Thursday,2025-09
+WM000143,HH00320,2026-04-04,Villa,Mixed Use,Zone B,6381.5,April,Saturday,2026-04
+WM000144,HH00321,2025-04-14,Apartment,Residential,Zone C,2123.4,April,Monday,2025-04
+WM000145,HH00269,2026-05-28,Independent,Mixed Use,Zone B,7724.4,May,Thursday,2026-05
+WM000146,HH00334,2026-01-22,Hostel,Commercial,Zone C,5901.2,January,Thursday,2026-01
+WM000147,HH00360,2026-02-17,Apartment,Residential,Zone D,10912.7,February,Tuesday,2026-02
+WM000148,HH00283,2025-04-21,Villa,Commercial,Zone E,6694.1,April,Monday,2025-04
+WM000149,HH00214,2026-01-13,Hostel,Commercial,Zone B,3302.0,January,Tuesday,2026-01
+WM000150,HH00089,2026-06-21,Hostel,Commercial,Zone D,9020.0,June,Sunday,2026-06
+WM000151,HH00053,2025-06-29,Hostel,Residential,Zone A,5374.3,June,Sunday,2025-06
+WM000152,HH00049,2025-11-15,Apartment,Mixed Use,Zone E,10098.6,November,Saturday,2025-11
+WM000153,HH00049,2026-01-04,Apartment,Residential,Zone A,5680.7,January,Sunday,2026-01
+WM000154,HH00331,2026-04-23,Apartment,Residential,Zone D,2924.4,April,Thursday,2026-04
+WM000155,HH00306,2026-04-11,Hostel,Residential,Zone A,6232.4,April,Saturday,2026-04
+WM000156,HH00287,2025-10-31,Apartment,Residential,Zone E,1688.2,October,Friday,2025-10
+WM000157,HH00229,2025-11-08,Apartment,Mixed Use,Zone E,5035.5,November,Saturday,2025-11
+WM000158,HH00251,2026-06-03,Villa,Residential,Zone D,7004.3,June,Wednesday,2026-06
+WM000159,HH00115,2025-01-10,Apartment,Residential,Zone C,7599.0,January,Friday,2025-01
+WM000160,HH00009,2026-08-16,Hostel,Mixed Use,Zone A,4827.1,August,Sunday,2026-08
+WM000161,HH00374,2025-09-11,Villa,Mixed Use,Zone E,2299.0,September,Thursday,2025-09
+WM000162,HH00279,2025-11-10,Hostel,Mixed Use,Zone B,4181.6,November,Monday,2025-11
+WM000163,HH00426,2025-04-05,Villa,Mixed Use,Zone A,6352.5,April,Saturday,2025-04
+WM000164,HH00350,2025-09-05,Independent,Residential,Zone C,6781.0,September,Friday,2025-09
+WM000165,HH00174,2025-11-13,Villa,Residential,Zone A,10172.8,November,Thursday,2025-11
+WM000166,HH00209,2026-04-27,Independent,Residential,Zone E,1111.2,April,Monday,2026-04
+WM000167,HH00174,2026-07-16,Hostel,Residential,Zone C,6667.3,July,Thursday,2026-07
+WM000168,HH00023,2026-10-08,Independent,Commercial,Zone B,2630.6,October,Thursday,2026-10
+WM000169,HH00093,2026-09-05,Villa,Mixed Use,Zone B,10659.0,September,Saturday,2026-09
+WM000170,HH00131,2025-04-28,Apartment,Residential,Zone C,8384.6,April,Monday,2025-04
+WM000171,HH00399,2025-11-11,Apartment,Residential,Zone A,3612.1,November,Tuesday,2025-11
+WM000172,HH00079,2026-05-15,Villa,Residential,Zone B,7182.8,May,Friday,2026-05
+WM000173,HH00022,2026-04-22,Hostel,Commercial,Zone B,10456.2,April,Wednesday,2026-04
+WM000174,HH00278,2025-01-03,Apartment,Residential,Zone B,2174.2,January,Friday,2025-01
+WM000175,HH00136,2026-07-26,Hostel,Residential,Zone A,4150.6,July,Sunday,2026-07
+WM000176,HH00055,2026-10-19,Hostel,Mixed Use,Zone B,5997.3,October,Monday,2026-10
+WM000177,HH00173,2026-10-14,Villa,Mixed Use,Zone B,3362.1,October,Wednesday,2026-10
+WM000178,HH00019,2026-06-18,Villa,Residential,Zone E,2034.4,June,Thursday,2026-06
+WM000179,HH00201,2026-03-11,Apartment,Mixed Use,Zone E,2696.2,March,Wednesday,2026-03
+WM000180,HH00368,2026-09-25,Apartment,Mixed Use,Zone E,4315.7,September,Friday,2026-09
+WM000181,HH00254,2025-01-13,Apartment,Residential,Zone A,9237.1,January,Monday,2025-01
+WM000182,HH00414,2025-03-13,Villa,Mixed Use,Zone D,6402.4,March,Thursday,2025-03
+WM000183,HH00447,2026-03-20,Independent,Commercial,Zone A,2977.0,March,Friday,2026-03
+WM000184,HH00379,2025-02-04,Hostel,Commercial,Zone A,9853.1,February,Tuesday,2025-02
+WM000185,HH00345,2025-08-02,Villa,Mixed Use,Zone A,5626.3,August,Saturday,2025-08
+WM000186,HH00263,2025-10-20,Hostel,Residential,Zone E,1850.8,October,Monday,2025-10
+WM000187,HH00039,2026-06-27,Hostel,Commercial,Zone B,7377.8,June,Saturday,2026-06
+WM000188,HH00161,2025-02-09,Apartment,Residential,Zone A,4998.6,February,Sunday,2025-02
+WM000189,HH00410,2026-07-21,Villa,Residential,Zone A,4033.9,July,Tuesday,2026-07
+WM000190,HH00037,2025-02-06,Independent,Commercial,Zone A,4771.4,February,Thursday,2025-02
+WM000191,HH00349,2026-05-30,Hostel,Residential,Zone A,6384.3,May,Saturday,2026-05
+WM000192,HH00176,2025-03-03,Apartment,Mixed Use,Zone A,6236.9,March,Monday,2025-03
+WM000193,HH00417,2026-06-18,Independent,Mixed Use,Zone C,5055.7,June,Thursday,2026-06
+WM000194,HH00083,2025-02-11,Hostel,Mixed Use,Zone B,1741.5,February,Tuesday,2025-02
+WM000195,HH00192,2026-09-12,Apartment,Mixed Use,Zone E,6447.4,September,Saturday,2026-09
+WM000196,HH00363,2025-03-07,Independent,Mixed Use,Zone A,10833.6,March,Friday,2025-03
+WM000197,HH00187,2025-11-02,Independent,Residential,Zone A,5051.9,November,Sunday,2025-11
+WM000198,HH00375,2025-09-03,Hostel,Commercial,Zone A,6730.5,September,Wednesday,2025-09
+WM000199,HH00163,2025-09-26,Independent,Commercial,Zone B,7795.4,September,Friday,2025-09
+WM000200,HH00211,2025-12-02,Independent,Residential,Zone B,5428.6,December,Tuesday,2025-12
+WM000201,HH00320,2026-06-11,Villa,Commercial,Zone E,9642.6,June,Thursday,2026-06
+WM000202,HH00139,2025-03-11,Apartment,Commercial,Zone E,889.0,March,Tuesday,2025-03
+WM000203,HH00364,2025-01-21,Villa,Commercial,Zone A,1851.6,January,Tuesday,2025-01
+WM000204,HH00314,2026-03-05,Independent,Residential,Zone E,813.2,March,Thursday,2026-03
+WM000205,HH00393,2025-01-15,Hostel,Commercial,Zone E,11291.4,January,Wednesday,2025-01
+WM000206,HH00282,2026-02-11,Villa,Residential,Zone E,1616.3,February,Wednesday,2026-02
+WM000207,HH00387,2025-03-21,Hostel,Commercial,Zone E,9818.0,March,Friday,2025-03
+WM000208,HH00261,2025-07-17,Independent,Residential,Zone D,1596.3,July,Thursday,2025-07
+WM000209,HH00207,2025-12-29,Apartment,Commercial,Zone B,5539.7,December,Monday,2025-12
+WM000210,HH00416,2025-07-23,Independent,Commercial,Zone D,6752.9,July,Wednesday,2025-07
+WM000211,HH00195,2025-12-04,Independent,Commercial,Zone B,9567.7,December,Thursday,2025-12
+WM000212,HH00126,2026-10-21,Independent,Mixed Use,Zone C,2295.7,October,Wednesday,2026-10
+WM000213,HH00365,2025-10-11,Apartment,Residential,Zone A,7974.1,October,Saturday,2025-10
+WM000214,HH00149,2025-07-20,Apartment,Residential,Zone E,10487.4,July,Sunday,2025-07
+WM000215,HH00012,2025-04-23,Villa,Commercial,Zone A,11409.2,April,Wednesday,2025-04
+WM000216,HH00025,2026-08-29,Apartment,Commercial,Zone B,11808.8,August,Saturday,2026-08
+WM000217,HH00327,2026-10-08,Independent,Mixed Use,Zone A,11163.2,October,Thursday,2026-10
+WM000218,HH00099,2025-05-17,Hostel,Commercial,Zone D,4499.8,May,Saturday,2025-05
+WM000219,HH00173,2025-03-28,Independent,Residential,Zone D,2762.7,March,Friday,2025-03
+WM000220,HH00211,2025-05-01,Hostel,Mixed Use,Zone A,5355.0,May,Thursday,2025-05
+WM000221,HH00173,2026-05-10,Independent,Mixed Use,Zone C,2953.1,May,Sunday,2026-05
+WM000222,HH00369,2026-07-30,Villa,Residential,Zone A,11172.8,July,Thursday,2026-07
+WM000223,HH00379,2025-01-18,Independent,Residential,Zone D,5787.6,January,Saturday,2025-01
+WM000224,HH00085,2026-02-11,Apartment,Mixed Use,Zone C,4063.3,February,Wednesday,2026-02
+WM000225,HH00028,2025-12-20,Independent,Residential,Zone A,11080.4,December,Saturday,2025-12
+WM000226,HH00235,2026-05-28,Apartment,Mixed Use,Zone E,3936.5,May,Thursday,2026-05
+WM000227,HH00381,2026-05-11,Independent,Mixed Use,Zone A,6212.3,May,Monday,2026-05
+WM000228,HH00139,2026-01-21,Independent,Residential,Zone E,5773.6,January,Wednesday,2026-01
+WM000229,HH00179,2025-10-12,Independent,Mixed Use,Zone D,10142.3,October,Sunday,2025-10
+WM000230,HH00353,2026-10-13,Apartment,Residential,Zone A,6075.3,October,Tuesday,2026-10
+WM000231,HH00194,2025-07-12,Independent,Mixed Use,Zone B,4549.2,July,Saturday,2025-07
+WM000232,HH00287,2025-01-20,Apartment,Mixed Use,Zone B,1930.1,January,Monday,2025-01
+WM000233,HH00398,2026-06-11,Independent,Mixed Use,Zone E,6703.7,June,Thursday,2026-06
+WM000234,HH00025,2025-04-11,Apartment,Commercial,Zone E,8154.6,April,Friday,2025-04
+WM000235,HH00024,2026-06-12,Villa,Commercial,Zone B,3473.3,June,Friday,2026-06
+WM000236,HH00074,2025-03-16,Independent,Residential,Zone C,8138.5,March,Sunday,2025-03
+WM000237,HH00235,2026-09-26,Independent,Mixed Use,Zone B,5813.0,September,Saturday,2026-09
+WM000238,HH00343,2026-03-26,Villa,Mixed Use,Zone A,1001.4,March,Thursday,2026-03
+WM000239,HH00056,2026-10-05,Apartment,Commercial,Zone B,1006.0,October,Monday,2026-10
+WM000240,HH00305,2025-07-30,Apartment,Commercial,Zone C,1182.8,July,Wednesday,2025-07
+WM000241,HH00038,2025-10-03,Independent,Commercial,Zone A,5276.0,October,Friday,2025-10
+WM000242,HH00053,2026-06-11,Independent,Mixed Use,Zone D,9929.2,June,Thursday,2026-06
+WM000243,HH00418,2026-07-27,Independent,Commercial,Zone D,4206.3,July,Monday,2026-07
+WM000244,HH00136,2025-03-25,Independent,Mixed Use,Zone D,7732.4,March,Tuesday,2025-03
+WM000245,HH00187,2025-11-18,Apartment,Mixed Use,Zone D,10215.8,November,Tuesday,2025-11
+WM000246,HH00123,2025-06-03,Apartment,Residential,Zone E,6938.6,June,Tuesday,2025-06
+WM000247,HH00154,2025-08-20,Apartment,Commercial,Zone A,11120.8,August,Wednesday,2025-08
+WM000248,HH00212,2025-02-14,Hostel,Commercial,Zone A,4022.2,February,Friday,2025-02
+WM000249,HH00093,2025-12-21,Apartment,Mixed Use,Zone C,6352.5,December,Sunday,2025-12
+WM000250,HH00012,2026-10-27,Hostel,Commercial,Zone B,6767.7,October,Tuesday,2026-10
+WM000251,HH00315,2026-06-26,Villa,Residential,Zone D,2514.0,June,Friday,2026-06
+WM000252,HH00239,2026-04-26,Apartment,Residential,Zone B,6243.7,April,Sunday,2026-04
+WM000253,HH00244,2025-01-03,Hostel,Mixed Use,Zone C,8003.8,January,Friday,2025-01
+WM000254,HH00075,2025-03-14,Independent,Residential,Zone B,1645.5,March,Friday,2025-03
+WM000255,HH00323,2026-03-24,Independent,Commercial,Zone E,7879.4,March,Tuesday,2026-03
+WM000256,HH00330,2026-03-09,Apartment,Mixed Use,Zone C,6540.8,March,Monday,2026-03
+WM000257,HH00217,2025-03-18,Apartment,Commercial,Zone D,4768.3,March,Tuesday,2025-03
+WM000258,HH00247,2025-10-22,Hostel,Residential,Zone C,4886.0,October,Wednesday,2025-10
+WM000259,HH00171,2026-09-29,Villa,Mixed Use,Zone D,10342.0,September,Tuesday,2026-09
+WM000260,HH00354,2026-09-05,Independent,Residential,Zone B,11578.4,September,Saturday,2026-09
+WM000261,HH00412,2026-03-27,Hostel,Commercial,Zone E,4567.1,March,Friday,2026-03
+WM000262,HH00283,2025-03-31,Hostel,Commercial,Zone C,5774.8,March,Monday,2025-03
+WM000263,HH00047,2025-06-13,Hostel,Residential,Zone B,6045.2,June,Friday,2025-06
+WM000264,HH00409,2025-01-19,Independent,Commercial,Zone B,8016.2,January,Sunday,2025-01
+WM000265,HH00246,2025-04-03,Hostel,Mixed Use,Zone D,3269.4,April,Thursday,2025-04
+WM000266,HH00429,2025-04-14,Apartment,Mixed Use,Zone E,4600.4,April,Monday,2025-04
+WM000267,HH00327,2026-08-30,Villa,Mixed Use,Zone C,2104.9,August,Sunday,2026-08
+WM000268,HH00280,2026-09-20,Hostel,Residential,Zone C,593.1,September,Sunday,2026-09
+WM000269,HH00143,2026-06-13,Apartment,Mixed Use,Zone E,2652.8,June,Saturday,2026-06
+WM000270,HH00282,2026-09-14,Hostel,Residential,Zone C,1018.6,September,Monday,2026-09
+WM000271,HH00102,2026-01-13,Hostel,Residential,Zone E,3286.7,January,Tuesday,2026-01
+WM000272,HH00160,2025-02-15,Apartment,Commercial,Zone B,4643.1,February,Saturday,2025-02
+WM000273,HH00290,2026-06-14,Hostel,Mixed Use,Zone A,1236.5,June,Sunday,2026-06
+WM000274,HH00420,2025-12-17,Apartment,Residential,Zone B,11543.3,December,Wednesday,2025-12
+WM000275,HH00243,2025-03-28,Hostel,Mixed Use,Zone A,2050.7,March,Friday,2025-03
+WM000276,HH00366,2026-04-03,Hostel,Commercial,Zone D,10346.9,April,Friday,2026-04
+WM000277,HH00197,2025-06-20,Independent,Residential,Zone A,8716.6,June,Friday,2025-06
+WM000278,HH00112,2025-01-03,Hostel,Commercial,Zone C,9344.9,January,Friday,2025-01
+WM000279,HH00043,2025-03-17,Villa,Residential,Zone D,3054.4,March,Monday,2025-03
+WM000280,HH00119,2025-01-11,Villa,Mixed Use,Zone B,11298.9,January,Saturday,2025-01
+WM000281,HH00051,2025-10-31,Independent,Mixed Use,Zone E,3147.1,October,Friday,2025-10
+WM000282,HH00334,2025-02-14,Apartment,Commercial,Zone A,752.7,February,Friday,2025-02
+WM000283,HH00047,2026-01-15,Independent,Mixed Use,Zone D,2273.8,January,Thursday,2026-01
+WM000284,HH00158,2026-04-17,Apartment,Residential,Zone E,4528.9,April,Friday,2026-04
+WM000285,HH00395,2026-05-05,Apartment,Mixed Use,Zone B,1426.1,May,Tuesday,2026-05
+WM000286,HH00370,2026-09-21,Villa,Mixed Use,Zone B,9833.7,September,Monday,2026-09
+WM000287,HH00375,2026-10-05,Apartment,Residential,Zone D,6946.3,October,Monday,2026-10
+WM000288,HH00412,2025-02-15,Apartment,Mixed Use,Zone A,11156.6,February,Saturday,2025-02
+WM000289,HH00229,2025-08-20,Hostel,Residential,Zone D,7255.7,August,Wednesday,2025-08
+WM000290,HH00052,2025-04-07,Apartment,Mixed Use,Zone D,1231.1,April,Monday,2025-04
+WM000291,HH00100,2025-07-22,Villa,Commercial,Zone E,6667.9,July,Tuesday,2025-07
+WM000292,HH00234,2025-11-09,Apartment,Residential,Zone E,1404.1,November,Sunday,2025-11
+WM000293,HH00090,2026-08-01,Villa,Mixed Use,Zone B,11296.2,August,Saturday,2026-08
+WM000294,HH00399,2025-10-24,Villa,Mixed Use,Zone D,8050.1,October,Friday,2025-10
+WM000295,HH00195,2025-06-15,Apartment,Commercial,Zone D,4501.3,June,Sunday,2025-06
+WM000296,HH00248,2025-05-23,Villa,Commercial,Zone B,7505.5,May,Friday,2025-05
+WM000297,HH00052,2026-05-20,Apartment,Commercial,Zone E,9147.2,May,Wednesday,2026-05
+WM000298,HH00066,2025-05-15,Hostel,Residential,Zone D,11307.6,May,Thursday,2025-05
+WM000299,HH00359,2026-04-27,Villa,Residential,Zone C,7705.0,April,Monday,2026-04
+WM000300,HH00356,2025-04-04,Apartment,Commercial,Zone B,8261.0,April,Friday,2025-04
+WM000301,HH00272,2026-10-23,Independent,Residential,Zone A,5112.8,October,Friday,2026-10
+WM000302,HH00093,2025-06-17,Hostel,Commercial,Zone C,3086.0,June,Tuesday,2025-06
+WM000303,HH00209,2026-10-24,Hostel,Residential,Zone A,4550.9,October,Saturday,2026-10
+WM000304,HH00223,2026-07-17,Independent,Commercial,Zone A,8110.2,July,Friday,2026-07
+WM000305,HH00115,2025-12-28,Villa,Residential,Zone D,10527.7,December,Sunday,2025-12
+WM000306,HH00435,2025-11-03,Hostel,Commercial,Zone B,8152.8,November,Monday,2025-11
+WM000307,HH00195,2025-07-08,Independent,Commercial,Zone C,11499.1,July,Tuesday,2025-07
+WM000308,HH00400,2026-09-07,Villa,Commercial,Zone C,8229.7,September,Monday,2026-09
+WM000309,HH00235,2026-09-22,Independent,Residential,Zone C,7733.9,September,Tuesday,2026-09
+WM000310,HH00274,2026-07-18,Independent,Residential,Zone A,643.8,July,Saturday,2026-07
+WM000311,HH00438,2026-07-17,Apartment,Commercial,Zone C,7514.1,July,Friday,2026-07
+WM000312,HH00071,2025-12-20,Hostel,Mixed Use,Zone D,1335.8,December,Saturday,2025-12
+WM000313,HH00263,2025-12-17,Villa,Commercial,Zone E,6505.1,December,Wednesday,2025-12
+WM000314,HH00174,2026-07-06,Villa,Residential,Zone C,7242.2,July,Monday,2026-07
+WM000315,HH00087,2026-01-06,Apartment,Commercial,Zone C,7931.5,January,Tuesday,2026-01
+WM000316,HH00107,2025-04-20,Villa,Commercial,Zone C,10518.6,April,Sunday,2025-04
+WM000317,HH00084,2025-01-21,Apartment,Mixed Use,Zone D,5939.2,January,Tuesday,2025-01
+WM000318,HH00304,2026-03-05,Hostel,Mixed Use,Zone C,6029.2,March,Thursday,2026-03
+WM000319,HH00284,2026-09-12,Villa,Residential,Zone D,6810.0,September,Saturday,2026-09
+WM000320,HH00342,2026-09-22,Independent,Mixed Use,Zone D,4347.0,September,Tuesday,2026-09
+WM000321,HH00364,2025-08-30,Independent,Residential,Zone D,3622.9,August,Saturday,2025-08
+WM000322,HH00281,2026-02-19,Apartment,Mixed Use,Zone D,1730.0,February,Thursday,2026-02
+WM000323,HH00144,2026-02-11,Villa,Mixed Use,Zone E,10157.0,February,Wednesday,2026-02
+WM000324,HH00274,2025-11-25,Apartment,Residential,Zone D,980.1,November,Tuesday,2025-11
+WM000325,HH00275,2026-02-06,Hostel,Commercial,Zone E,11783.6,February,Friday,2026-02
+WM000326,HH00141,2026-03-15,Independent,Residential,Zone B,3825.0,March,Sunday,2026-03
+WM000327,HH00398,2025-03-13,Hostel,Mixed Use,Zone D,8573.4,March,Thursday,2025-03
+WM000328,HH00204,2025-04-02,Hostel,Mixed Use,Zone D,8909.7,April,Wednesday,2025-04
+WM000329,HH00218,2025-06-11,Independent,Residential,Zone B,5068.0,June,Wednesday,2025-06
+WM000330,HH00442,2025-07-17,Hostel,Residential,Zone C,5221.0,July,Thursday,2025-07
+WM000331,HH00207,2026-03-28,Villa,Residential,Zone C,7375.1,March,Saturday,2026-03
+WM000332,HH00409,2025-06-18,Villa,Residential,Zone A,1298.0,June,Wednesday,2025-06
+WM000333,HH00160,2026-05-05,Apartment,Commercial,Zone B,752.3,May,Tuesday,2026-05
+WM000334,HH00321,2025-03-21,Villa,Residential,Zone A,8808.7,March,Friday,2025-03
+WM000335,HH00427,2026-01-12,Villa,Residential,Zone E,6473.9,January,Monday,2026-01
+WM000336,HH00390,2026-04-19,Apartment,Commercial,Zone C,11980.5,April,Sunday,2026-04
+WM000337,HH00079,2026-06-04,Villa,Mixed Use,Zone C,3936.5,June,Thursday,2026-06
+WM000338,HH00318,2026-03-01,Hostel,Residential,Zone C,4788.6,March,Sunday,2026-03
+WM000339,HH00096,2026-05-30,Independent,Commercial,Zone B,7800.4,May,Saturday,2026-05
+WM000340,HH00287,2026-08-07,Independent,Commercial,Zone D,8405.8,August,Friday,2026-08
+WM000341,HH00335,2026-01-16,Villa,Mixed Use,Zone C,4943.1,January,Friday,2026-01
+WM000342,HH00340,2026-04-12,Independent,Residential,Zone D,1902.6,April,Sunday,2026-04
+WM000343,HH00389,2025-05-18,Villa,Mixed Use,Zone C,1281.2,May,Sunday,2025-05
+WM000344,HH00111,2026-06-28,Hostel,Mixed Use,Zone C,520.2,June,Sunday,2026-06
+WM000345,HH00067,2025-05-26,Villa,Residential,Zone B,4759.4,May,Monday,2025-05
+WM000346,HH00433,2025-04-04,Hostel,Mixed Use,Zone C,3705.0,April,Friday,2025-04
+WM000347,HH00294,2025-03-23,Apartment,Mixed Use,Zone B,747.3,March,Sunday,2025-03
+WM000348,HH00195,2025-02-13,Hostel,Mixed Use,Zone B,8083.7,February,Thursday,2025-02
+WM000349,HH00192,2026-07-07,Apartment,Residential,Zone B,4580.9,July,Tuesday,2026-07
+WM000350,HH00020,2025-09-05,Independent,Residential,Zone E,6767.4,September,Friday,2025-09
+WM000351,HH00443,2025-04-23,Apartment,Mixed Use,Zone B,6402.4,April,Wednesday,2025-04
+WM000352,HH00085,2025-03-29,Apartment,Commercial,Zone D,4681.6,March,Saturday,2025-03
+WM000353,HH00316,2026-01-08,Hostel,Commercial,Zone B,2988.5,January,Thursday,2026-01
+WM000354,HH00298,2026-05-29,Independent,Commercial,Zone B,3698.1,May,Friday,2026-05
+WM000355,HH00433,2025-02-18,Villa,Residential,Zone B,956.5,February,Tuesday,2025-02
+WM000356,HH00299,2025-10-17,Independent,Commercial,Zone D,3090.4,October,Friday,2025-10
+WM000357,HH00417,2025-10-14,Villa,Residential,Zone B,10875.9,October,Tuesday,2025-10
+WM000358,HH00244,2026-09-20,Hostel,Residential,Zone C,1947.0,September,Sunday,2026-09
+WM000359,HH00239,2025-01-05,Apartment,Commercial,Zone C,4300.4,January,Sunday,2025-01
+WM000360,HH00226,2025-02-28,Hostel,Residential,Zone C,1978.1,February,Friday,2025-02
+WM000361,HH00418,2025-06-11,Villa,Commercial,Zone A,1176.3,June,Wednesday,2025-06
+WM000362,HH00285,2026-09-25,Hostel,Residential,Zone E,4856.3,September,Friday,2026-09
+WM000363,HH00410,2025-01-19,Apartment,Mixed Use,Zone B,9959.8,January,Sunday,2025-01
+WM000364,HH00324,2026-05-02,Apartment,Commercial,Zone D,938.5,May,Saturday,2026-05
+WM000365,HH00248,2025-11-03,Apartment,Mixed Use,Zone B,8386.6,November,Monday,2025-11
+WM000366,HH00091,2026-06-22,Independent,Commercial,Zone E,1072.7,June,Monday,2026-06
+WM000367,HH00295,2025-06-03,Villa,Commercial,Zone E,8847.5,June,Tuesday,2025-06
+WM000368,HH00093,2025-11-26,Hostel,Mixed Use,Zone C,11602.1,November,Wednesday,2025-11
+WM000369,HH00331,2025-11-20,Villa,Mixed Use,Zone E,3677.1,November,Thursday,2025-11
+WM000370,HH00017,2025-09-01,Independent,Mixed Use,Zone D,5762.4,September,Monday,2025-09
+WM000371,HH00190,2025-08-13,Apartment,Commercial,Zone E,6800.1,August,Wednesday,2025-08
+WM000372,HH00272,2026-04-30,Apartment,Commercial,Zone C,3116.7,April,Thursday,2026-04
+WM000373,HH00165,2025-04-11,Independent,Residential,Zone D,1030.6,April,Friday,2025-04
+WM000374,HH00168,2026-10-17,Hostel,Residential,Zone C,1281.4,October,Saturday,2026-10
+WM000375,HH00025,2026-08-20,Hostel,Mixed Use,Zone D,4756.2,August,Thursday,2026-08
+WM000376,HH00421,2025-01-18,Apartment,Mixed Use,Zone C,2874.5,January,Saturday,2025-01
+WM000377,HH00017,2026-08-22,Hostel,Mixed Use,Zone C,6405.2,August,Saturday,2026-08
+WM000378,HH00151,2026-02-04,Independent,Residential,Zone D,1239.4,February,Wednesday,2026-02
+WM000379,HH00403,2026-09-09,Villa,Residential,Zone E,8401.1,September,Wednesday,2026-09
+WM000380,HH00254,2025-06-15,Villa,Commercial,Zone A,2259.6,June,Sunday,2025-06
+WM000381,HH00220,2026-07-22,Independent,Mixed Use,Zone E,886.9,July,Wednesday,2026-07
+WM000382,HH00156,2025-09-25,Apartment,Mixed Use,Zone D,3397.3,September,Thursday,2025-09
+WM000383,HH00028,2025-11-22,Apartment,Mixed Use,Zone A,8382.1,November,Saturday,2025-11
+WM000384,HH00160,2026-01-20,Hostel,Residential,Zone C,1817.3,January,Tuesday,2026-01
+WM000385,HH00242,2026-06-05,Villa,Residential,Zone E,9403.6,June,Friday,2026-06
+WM000386,HH00163,2025-05-26,Independent,Commercial,Zone D,7702.9,May,Monday,2025-05
+WM000387,HH00213,2025-01-18,Hostel,Residential,Zone C,4038.4,January,Saturday,2025-01
+WM000388,HH00275,2025-01-08,Independent,Commercial,Zone A,1539.7,January,Wednesday,2025-01
+WM000389,HH00200,2026-08-16,Villa,Residential,Zone C,10960.6,August,Sunday,2026-08
+WM000390,HH00165,2025-02-16,Hostel,Mixed Use,Zone B,3179.5,February,Sunday,2025-02
+WM000391,HH00388,2025-02-13,Independent,Commercial,Zone E,7773.9,February,Thursday,2025-02
+WM000392,HH00067,2025-01-18,Apartment,Commercial,Zone C,8448.0,January,Saturday,2025-01
+WM000393,HH00239,2025-08-09,Independent,Residential,Zone B,6616.3,August,Saturday,2025-08
+WM000394,HH00075,2025-01-31,Independent,Residential,Zone C,7218.2,January,Friday,2025-01
+WM000395,HH00062,2025-11-08,Villa,Mixed Use,Zone D,3906.7,November,Saturday,2025-11
+WM000396,HH00237,2025-04-21,Villa,Commercial,Zone A,7255.9,April,Monday,2025-04
+WM000397,HH00020,2025-07-04,Villa,Residential,Zone C,9973.1,July,Friday,2025-07
+WM000398,HH00195,2025-10-25,Apartment,Commercial,Zone A,9432.6,October,Saturday,2025-10
+WM000399,HH00130,2025-11-20,Hostel,Mixed Use,Zone A,3065.3,November,Thursday,2025-11
+WM000400,HH00392,2025-10-30,Independent,Mixed Use,Zone C,9501.6,October,Thursday,2025-10
+WM000401,HH00094,2025-02-21,Hostel,Commercial,Zone C,8319.3,February,Friday,2025-02
+WM000402,HH00019,2025-01-09,Villa,Mixed Use,Zone C,5516.9,January,Thursday,2025-01
+WM000403,HH00031,2026-05-30,Independent,Mixed Use,Zone E,6091.6,May,Saturday,2026-05
+WM000404,HH00119,2025-01-18,Hostel,Residential,Zone B,6437.8,January,Saturday,2025-01
+WM000405,HH00008,2025-09-24,Independent,Residential,Zone D,9457.4,September,Wednesday,2025-09
+WM000406,HH00311,2025-06-19,Independent,Mixed Use,Zone E,7536.7,June,Thursday,2025-06
+WM000407,HH00019,2025-01-25,Independent,Commercial,Zone D,10248.0,January,Saturday,2025-01
+WM000408,HH00308,2025-02-03,Villa,Residential,Zone B,9935.9,February,Monday,2025-02
+WM000409,HH00109,2025-03-14,Apartment,Commercial,Zone A,11009.5,March,Friday,2025-03
+WM000410,HH00035,2025-05-18,Villa,Residential,Zone D,6402.4,May,Sunday,2025-05
+WM000411,HH00175,2026-05-27,Apartment,Commercial,Zone B,740.3,May,Wednesday,2026-05
+WM000412,HH00111,2025-01-24,Apartment,Commercial,Zone A,4672.4,January,Friday,2025-01
+WM000413,HH00232,2026-06-27,Hostel,Residential,Zone E,4796.9,June,Saturday,2026-06
+WM000414,HH00103,2025-02-27,Apartment,Commercial,Zone A,8399.4,February,Thursday,2025-02
+WM000415,HH00419,2025-04-29,Independent,Residential,Zone B,7017.8,April,Tuesday,2025-04
+WM000416,HH00431,2026-03-18,Independent,Residential,Zone D,11890.8,March,Wednesday,2026-03
+WM000417,HH00156,2026-09-26,Independent,Commercial,Zone E,7611.1,September,Saturday,2026-09
+WM000418,HH00414,2025-04-01,Villa,Residential,Zone E,7020.8,April,Tuesday,2025-04
+WM000419,HH00438,2026-03-22,Apartment,Residential,Zone D,10277.5,March,Sunday,2026-03
+WM000420,HH00441,2025-10-26,Independent,Residential,Zone B,9585.3,October,Sunday,2025-10
+WM000421,HH00144,2026-06-14,Independent,Residential,Zone B,2345.1,June,Sunday,2026-06
+WM000422,HH00066,2026-06-25,Apartment,Mixed Use,Zone C,6065.5,June,Thursday,2026-06
+WM000423,HH00292,2026-04-30,Apartment,Mixed Use,Zone D,11905.2,April,Thursday,2026-04
+WM000424,HH00313,2025-02-08,Hostel,Commercial,Zone D,8640.7,February,Saturday,2025-02
+WM000425,HH00218,2025-07-24,Hostel,Commercial,Zone E,770.4,July,Thursday,2025-07
+WM000426,HH00235,2025-06-30,Villa,Mixed Use,Zone D,1207.6,June,Monday,2025-06
+WM000427,HH00167,2026-04-27,Hostel,Mixed Use,Zone A,8911.8,April,Monday,2026-04
+WM000428,HH00338,2026-02-23,Hostel,Commercial,Zone D,9393.1,February,Monday,2026-02
+WM000429,HH00374,2025-12-09,Hostel,Residential,Zone E,9923.9,December,Tuesday,2025-12
+WM000430,HH00095,2025-04-27,Hostel,Residential,Zone E,3865.5,April,Sunday,2025-04
+WM000431,HH00398,2025-04-02,Apartment,Residential,Zone B,9769.8,April,Wednesday,2025-04
+WM000432,HH00014,2025-12-14,Villa,Commercial,Zone A,11909.7,December,Sunday,2025-12
+WM000433,HH00301,2026-10-27,Hostel,Residential,Zone B,7125.5,October,Tuesday,2026-10
+WM000434,HH00051,2026-04-09,Villa,Mixed Use,Zone D,7376.2,April,Thursday,2026-04
+WM000435,HH00089,2025-04-23,Independent,Mixed Use,Zone A,3308.4,April,Wednesday,2025-04
+WM000436,HH00227,2026-09-27,Hostel,Commercial,Zone E,2980.8,September,Sunday,2026-09
+WM000437,HH00115,2025-07-04,Villa,Mixed Use,Zone E,590.5,July,Friday,2025-07
+WM000438,HH00440,2026-10-14,Villa,Mixed Use,Zone B,2973.2,October,Wednesday,2026-10
+WM000439,HH00331,2026-06-22,Hostel,Residential,Zone C,2245.7,June,Monday,2026-06
+WM000440,HH00016,2025-04-20,Apartment,Commercial,Zone D,8121.8,April,Sunday,2025-04
+WM000441,HH00142,2025-02-10,Villa,Residential,Zone D,972.7,February,Monday,2025-02
+WM000442,HH00264,2026-08-10,Hostel,Residential,Zone D,11637.4,August,Monday,2026-08
+WM000443,HH00069,2025-01-08,Independent,Mixed Use,Zone A,6402.4,January,Wednesday,2025-01
+WM000444,HH00089,2025-02-05,Apartment,Mixed Use,Zone B,4127.2,February,Wednesday,2025-02
+WM000445,HH00016,2025-11-19,Villa,Mixed Use,Zone A,10986.3,November,Wednesday,2025-11
+WM000446,HH00033,2025-10-29,Hostel,Residential,Zone C,6002.9,October,Wednesday,2025-10
+WM000447,HH00430,2025-10-16,Villa,Residential,Zone D,10384.4,October,Thursday,2025-10
+WM000448,HH00281,2025-11-11,Hostel,Residential,Zone E,8415.7,November,Tuesday,2025-11
+WM000449,HH00133,2025-05-29,Villa,Mixed Use,Zone E,1568.5,May,Thursday,2025-05
+WM000450,HH00169,2025-02-26,Apartment,Commercial,Zone C,8703.6,February,Wednesday,2025-02
+WM000451,HH00237,2025-09-20,Apartment,Residential,Zone C,7858.4,September,Saturday,2025-09
+WM000452,HH00334,2025-07-31,Apartment,Mixed Use,Zone B,9768.0,July,Thursday,2025-07
+WM000453,HH00131,2025-09-30,Villa,Mixed Use,Zone E,9306.1,September,Tuesday,2025-09
+WM000454,HH00166,2026-06-05,Hostel,Residential,Zone E,8922.6,June,Friday,2026-06
+WM000455,HH00223,2025-01-03,Apartment,Mixed Use,Zone C,7925.4,January,Friday,2025-01
+WM000456,HH00045,2025-05-24,Hostel,Commercial,Zone B,10369.7,May,Saturday,2025-05
+WM000457,HH00092,2026-09-03,Villa,Residential,Zone E,9459.3,September,Thursday,2026-09
+WM000458,HH00330,2026-02-21,Villa,Residential,Zone A,8962.0,February,Saturday,2026-02
+WM000459,HH00370,2025-12-07,Independent,Commercial,Zone C,1909.9,December,Sunday,2025-12
+WM000460,HH00294,2026-10-07,Independent,Commercial,Zone A,11679.7,October,Wednesday,2026-10
+WM000461,HH00416,2025-10-02,Apartment,Mixed Use,Zone C,10574.0,October,Thursday,2025-10
+WM000462,HH00406,2025-02-05,Hostel,Commercial,Zone E,6658.1,February,Wednesday,2025-02
+WM000463,HH00295,2026-09-28,Villa,Mixed Use,Zone A,10850.0,September,Monday,2026-09
+WM000464,HH00313,2025-01-10,Villa,Commercial,Zone B,6688.2,January,Friday,2025-01
+WM000465,HH00150,2026-06-08,Hostel,Mixed Use,Zone A,6828.1,June,Monday,2026-06
+WM000466,HH00006,2025-06-27,Hostel,Mixed Use,Zone E,10188.1,June,Friday,2025-06
+WM000467,HH00125,2026-06-03,Apartment,Residential,Zone A,4950.0,June,Wednesday,2026-06
+WM000468,HH00373,2025-03-06,Independent,Mixed Use,Zone E,6402.4,March,Thursday,2025-03
+WM000469,HH00335,2025-07-21,Independent,Residential,Zone B,9738.1,July,Monday,2025-07
+WM000470,HH00249,2025-02-26,Independent,Residential,Zone A,6402.4,February,Wednesday,2025-02
+WM000471,HH00251,2026-02-01,Apartment,Commercial,Zone C,7703.1,February,Sunday,2026-02
+WM000472,HH00006,2025-10-03,Villa,Mixed Use,Zone D,3817.4,October,Friday,2025-10
+WM000473,HH00085,2025-05-28,Apartment,Residential,Zone B,9494.5,May,Wednesday,2025-05
+WM000474,HH00361,2026-03-13,Villa,Residential,Zone C,1562.1,March,Friday,2026-03
+WM000475,HH00416,2025-01-02,Hostel,Commercial,Zone B,7968.9,January,Thursday,2025-01
+WM000476,HH00346,2026-05-12,Apartment,Mixed Use,Zone D,8637.7,May,Tuesday,2026-05
+WM000477,HH00096,2025-03-05,Independent,Mixed Use,Zone A,10569.7,March,Wednesday,2025-03
+WM000478,HH00449,2025-03-14,Apartment,Residential,Zone C,6402.4,March,Friday,2025-03
+WM000479,HH00225,2025-07-10,Hostel,Residential,Zone E,9175.8,July,Thursday,2025-07
+WM000480,HH00217,2026-01-18,Hostel,Mixed Use,Zone A,6993.3,January,Sunday,2026-01
+WM000481,HH00188,2026-07-22,Villa,Residential,Zone B,7725.8,July,Wednesday,2026-07
+WM000482,HH00350,2026-04-25,Villa,Mixed Use,Zone A,8377.2,April,Saturday,2026-04
+WM000483,HH00316,2025-08-15,Villa,Commercial,Zone C,2305.9,August,Friday,2025-08
+WM000484,HH00321,2026-02-17,Apartment,Commercial,Zone A,9008.5,February,Tuesday,2026-02
+WM000485,HH00001,2026-07-07,Villa,Mixed Use,Zone A,1594.4,July,Tuesday,2026-07
+WM000486,HH00223,2025-11-07,Independent,Mixed Use,Zone B,11702.4,November,Friday,2025-11
+WM000487,HH00061,2026-05-11,Independent,Commercial,Zone D,2136.5,May,Monday,2026-05
+WM000488,HH00079,2025-10-23,Hostel,Mixed Use,Zone D,11841.5,October,Thursday,2025-10
+WM000489,HH00329,2025-10-13,Hostel,Commercial,Zone C,3382.5,October,Monday,2025-10
+WM000490,HH00200,2026-06-06,Apartment,Mixed Use,Zone B,5187.3,June,Saturday,2026-06
+WM000491,HH00410,2026-06-13,Villa,Residential,Zone E,7060.8,June,Saturday,2026-06
+WM000492,HH00071,2025-06-04,Villa,Residential,Zone B,6014.3,June,Wednesday,2025-06
+WM000493,HH00427,2025-03-15,Hostel,Residential,Zone C,8628.6,March,Saturday,2025-03
+WM000494,HH00137,2025-05-05,Villa,Commercial,Zone C,8279.1,May,Monday,2025-05
+WM000495,HH00289,2026-09-03,Independent,Residential,Zone E,4719.1,September,Thursday,2026-09
+WM000496,HH00392,2025-02-10,Hostel,Residential,Zone D,9319.0,February,Monday,2025-02
+WM000497,HH00066,2026-06-25,Hostel,Commercial,Zone C,6120.0,June,Thursday,2026-06
+WM000498,HH00114,2025-09-27,Hostel,Mixed Use,Zone E,7613.9,September,Saturday,2025-09
+WM000499,HH00136,2026-08-03,Hostel,Commercial,Zone D,8611.6,August,Monday,2026-08
+WM000500,HH00372,2026-03-21,Villa,Residential,Zone B,7578.7,March,Saturday,2026-03
+WM000501,HH00414,2026-04-20,Independent,Commercial,Zone A,1398.9,April,Monday,2026-04
+WM000502,HH00015,2025-12-17,Hostel,Mixed Use,Zone D,9192.9,December,Wednesday,2025-12
+WM000503,HH00357,2025-10-12,Hostel,Residential,Zone D,5966.6,October,Sunday,2025-10
+WM000504,HH00220,2025-02-26,Hostel,Mixed Use,Zone B,2008.7,February,Wednesday,2025-02
+WM000505,HH00315,2025-07-28,Hostel,Residential,Zone D,2694.7,July,Monday,2025-07
+WM000506,HH00333,2026-10-26,Independent,Residential,Zone D,3062.5,October,Monday,2026-10
+WM000507,HH00298,2025-10-06,Hostel,Residential,Zone D,10700.0,October,Monday,2025-10
+WM000508,HH00389,2025-09-06,Apartment,Commercial,Zone E,7435.5,September,Saturday,2025-09
+WM000509,HH00099,2026-10-29,Villa,Mixed Use,Zone C,1137.9,October,Thursday,2026-10
+WM000510,HH00012,2025-01-02,Independent,Commercial,Zone B,9725.1,January,Thursday,2025-01
+WM000511,HH00236,2026-02-27,Apartment,Commercial,Zone C,8518.9,February,Friday,2026-02
+WM000512,HH00358,2026-02-10,Hostel,Residential,Zone C,6418.5,February,Tuesday,2026-02
+WM000513,HH00096,2026-04-13,Villa,Commercial,Zone A,9997.3,April,Monday,2026-04
+WM000514,HH00401,2025-01-05,Villa,Residential,Zone B,9333.5,January,Sunday,2025-01
+WM000515,HH00056,2026-06-24,Villa,Residential,Zone B,6286.0,June,Wednesday,2026-06
+WM000516,HH00069,2026-08-27,Apartment,Residential,Zone C,8976.2,August,Thursday,2026-08
+WM000517,HH00397,2026-03-15,Villa,Mixed Use,Zone C,6402.4,March,Sunday,2026-03
+WM000518,HH00024,2026-02-06,Independent,Commercial,Zone C,6285.7,February,Friday,2026-02
+WM000519,HH00438,2025-12-24,Hostel,Residential,Zone A,4752.4,December,Wednesday,2025-12
+WM000520,HH00092,2025-08-09,Villa,Mixed Use,Zone E,3156.8,August,Saturday,2025-08
+WM000521,HH00074,2026-09-01,Hostel,Commercial,Zone E,5798.4,September,Tuesday,2026-09
+WM000522,HH00107,2025-08-13,Apartment,Commercial,Zone D,5012.9,August,Wednesday,2025-08
+WM000523,HH00373,2026-06-12,Independent,Residential,Zone D,2626.0,June,Friday,2026-06
+WM000524,HH00086,2025-03-11,Villa,Mixed Use,Zone C,6402.4,March,Tuesday,2025-03
+WM000525,HH00279,2025-03-25,Hostel,Commercial,Zone A,1097.9,March,Tuesday,2025-03
+WM000526,HH00266,2025-10-09,Apartment,Residential,Zone A,10132.7,October,Thursday,2025-10
+WM000527,HH00296,2025-01-16,Apartment,Commercial,Zone B,9172.0,January,Thursday,2025-01
+WM000528,HH00114,2025-12-02,Villa,Residential,Zone B,1355.2,December,Tuesday,2025-12
+WM000529,HH00355,2026-01-23,Apartment,Mixed Use,Zone B,4422.9,January,Friday,2026-01
+WM000530,HH00324,2025-04-12,Independent,Residential,Zone C,7565.9,April,Saturday,2025-04
+WM000531,HH00290,2026-02-07,Villa,Residential,Zone C,2282.9,February,Saturday,2026-02
+WM000532,HH00232,2026-03-30,Independent,Mixed Use,Zone E,9044.9,March,Monday,2026-03
+WM000533,HH00214,2025-05-11,Hostel,Residential,Zone A,4539.5,May,Sunday,2025-05
+WM000534,HH00205,2025-08-02,Apartment,Commercial,Zone D,2128.8,August,Saturday,2025-08
+WM000535,HH00393,2026-06-27,Villa,Residential,Zone B,8446.2,June,Saturday,2026-06
+WM000536,HH00390,2025-02-15,Villa,Mixed Use,Zone B,3386.7,February,Saturday,2025-02
+WM000537,HH00110,2026-03-18,Independent,Commercial,Zone C,4543.1,March,Wednesday,2026-03
+WM000538,HH00268,2025-06-15,Villa,Residential,Zone E,5502.4,June,Sunday,2025-06
+WM000539,HH00331,2026-04-19,Independent,Residential,Zone E,5471.1,April,Sunday,2026-04
+WM000540,HH00119,2025-01-25,Hostel,Mixed Use,Zone E,9590.6,January,Saturday,2025-01
+WM000541,HH00083,2026-07-07,Hostel,Commercial,Zone A,7940.6,July,Tuesday,2026-07
+WM000542,HH00041,2026-09-01,Villa,Mixed Use,Zone C,10307.7,September,Tuesday,2026-09
+WM000543,HH00068,2026-01-31,Villa,Commercial,Zone E,9369.2,January,Saturday,2026-01
+WM000544,HH00242,2025-11-04,Villa,Mixed Use,Zone D,11269.0,November,Tuesday,2025-11
+WM000545,HH00214,2026-04-16,Apartment,Commercial,Zone B,4514.7,April,Thursday,2026-04
+WM000546,HH00336,2026-10-05,Independent,Mixed Use,Zone A,7158.3,October,Monday,2026-10
+WM000547,HH00364,2026-03-21,Independent,Residential,Zone C,10182.2,March,Saturday,2026-03
+WM000548,HH00303,2026-02-16,Apartment,Mixed Use,Zone E,9896.7,February,Monday,2026-02
+WM000549,HH00201,2025-12-09,Hostel,Mixed Use,Zone B,9811.4,December,Tuesday,2025-12
+WM000550,HH00362,2025-01-29,Villa,Residential,Zone A,5450.3,January,Wednesday,2025-01
+WM000551,HH00401,2025-03-25,Independent,Mixed Use,Zone E,6402.4,March,Tuesday,2025-03
+WM000552,HH00350,2025-04-26,Apartment,Mixed Use,Zone E,1413.7,April,Saturday,2025-04
+WM000553,HH00290,2025-02-12,Hostel,Mixed Use,Zone D,2505.3,February,Wednesday,2025-02
+WM000554,HH00234,2025-12-22,Villa,Residential,Zone C,5573.6,December,Monday,2025-12
+WM000555,HH00132,2025-09-21,Hostel,Mixed Use,Zone C,4076.9,September,Sunday,2025-09
+WM000556,HH00119,2025-01-06,Apartment,Mixed Use,Zone D,3273.0,January,Monday,2025-01
+WM000557,HH00410,2025-12-26,Hostel,Commercial,Zone A,2222.7,December,Friday,2025-12
+WM000558,HH00371,2026-02-14,Apartment,Mixed Use,Zone B,9164.7,February,Saturday,2026-02
+WM000559,HH00392,2025-05-15,Hostel,Commercial,Zone A,9824.0,May,Thursday,2025-05
+WM000560,HH00198,2026-08-08,Villa,Mixed Use,Zone C,6402.4,August,Saturday,2026-08
+WM000561,HH00340,2025-07-29,Hostel,Mixed Use,Zone E,9988.2,July,Tuesday,2025-07
+WM000562,HH00063,2025-08-02,Hostel,Mixed Use,Zone C,11016.8,August,Saturday,2025-08
+WM000563,HH00405,2026-09-08,Hostel,Commercial,Zone A,2252.4,September,Tuesday,2026-09
+WM000564,HH00401,2026-07-16,Villa,Mixed Use,Zone C,10053.7,July,Thursday,2026-07
+WM000565,HH00277,2025-09-14,Apartment,Commercial,Zone C,819.4,September,Sunday,2025-09
+WM000566,HH00093,2026-09-11,Villa,Commercial,Zone C,1800.5,September,Friday,2026-09
+WM000567,HH00354,2026-02-04,Villa,Residential,Zone C,5229.0,February,Wednesday,2026-02
+WM000568,HH00075,2025-06-19,Hostel,Mixed Use,Zone E,8216.3,June,Thursday,2025-06
+WM000569,HH00024,2025-11-01,Hostel,Commercial,Zone B,6126.2,November,Saturday,2025-11
+WM000570,HH00086,2025-11-12,Independent,Mixed Use,Zone C,2905.8,November,Wednesday,2025-11
+WM000571,HH00208,2025-01-27,Independent,Mixed Use,Zone B,7758.4,January,Monday,2025-01
+WM000572,HH00094,2025-07-29,Villa,Residential,Zone A,10490.8,July,Tuesday,2025-07
+WM000573,HH00307,2026-03-18,Apartment,Commercial,Zone E,9643.5,March,Wednesday,2026-03
+WM000574,HH00125,2025-07-10,Independent,Mixed Use,Zone C,3912.1,July,Thursday,2025-07
+WM000575,HH00350,2026-02-08,Villa,Residential,Zone C,10873.9,February,Sunday,2026-02
+WM000576,HH00255,2025-01-07,Hostel,Residential,Zone E,4945.6,January,Tuesday,2025-01
+WM000577,HH00282,2025-06-01,Villa,Residential,Zone B,10835.7,June,Sunday,2025-06
+WM000578,HH00096,2025-06-04,Villa,Commercial,Zone B,1689.7,June,Wednesday,2025-06
+WM000579,HH00271,2026-03-08,Villa,Commercial,Zone E,11257.1,March,Sunday,2026-03
+WM000580,HH00389,2026-06-15,Independent,Residential,Zone B,4503.1,June,Monday,2026-06
+WM000581,HH00252,2025-09-26,Hostel,Residential,Zone C,5549.8,September,Friday,2025-09
+WM000582,HH00193,2026-08-25,Independent,Commercial,Zone B,10136.7,August,Tuesday,2026-08
+WM000583,HH00264,2026-10-16,Apartment,Residential,Zone B,8431.3,October,Friday,2026-10
+WM000584,HH00213,2025-07-16,Villa,Mixed Use,Zone B,6883.3,July,Wednesday,2025-07
+WM000585,HH00004,2025-10-04,Hostel,Commercial,Zone B,8305.1,October,Saturday,2025-10
+WM000586,HH00310,2025-01-24,Independent,Commercial,Zone C,6493.6,January,Friday,2025-01
+WM000587,HH00225,2025-08-28,Independent,Commercial,Zone E,802.0,August,Thursday,2025-08
+WM000588,HH00026,2026-05-18,Apartment,Residential,Zone B,5909.0,May,Monday,2026-05
+WM000589,HH00393,2026-06-25,Hostel,Mixed Use,Zone B,7452.6,June,Thursday,2026-06
+WM000590,HH00142,2026-04-15,Villa,Mixed Use,Zone A,2011.2,April,Wednesday,2026-04
+WM000591,HH00348,2025-11-04,Apartment,Mixed Use,Zone C,3096.9,November,Tuesday,2025-11
+WM000592,HH00309,2025-07-09,Villa,Commercial,Zone B,3136.8,July,Wednesday,2025-07
+WM000593,HH00248,2025-12-03,Independent,Mixed Use,Zone B,6721.4,December,Wednesday,2025-12
+WM000594,HH00173,2026-06-29,Apartment,Residential,Zone C,3093.1,June,Monday,2026-06
+WM000595,HH00397,2026-08-29,Villa,Residential,Zone C,3114.3,August,Saturday,2026-08
+WM000596,HH00042,2026-05-22,Independent,Residential,Zone C,5392.8,May,Friday,2026-05
+WM000597,HH00082,2025-10-24,Apartment,Residential,Zone A,9565.8,October,Friday,2025-10
+WM000598,HH00221,2025-03-03,Villa,Commercial,Zone D,3713.8,March,Monday,2025-03
+WM000599,HH00007,2026-05-15,Apartment,Mixed Use,Zone C,3392.9,May,Friday,2026-05
+WM000600,HH00098,2025-11-22,Apartment,Commercial,Zone D,6280.4,November,Saturday,2025-11
+WM000601,HH00055,2025-02-04,Apartment,Residential,Zone D,4555.1,February,Tuesday,2025-02
+WM000602,HH00396,2025-04-22,Hostel,Residential,Zone E,11780.0,April,Tuesday,2025-04
+WM000603,HH00019,2026-10-30,Independent,Commercial,Zone D,9774.4,October,Friday,2026-10
+WM000604,HH00054,2025-04-23,Villa,Mixed Use,Zone B,5004.7,April,Wednesday,2025-04
+WM000605,HH00388,2025-10-08,Hostel,Commercial,Zone A,1877.0,October,Wednesday,2025-10
+WM000606,HH00035,2025-09-08,Independent,Mixed Use,Zone D,3005.7,September,Monday,2025-09
+WM000607,HH00123,2025-11-23,Independent,Residential,Zone A,9508.6,November,Sunday,2025-11
+WM000608,HH00252,2025-04-16,Hostel,Residential,Zone A,5755.0,April,Wednesday,2025-04
+WM000609,HH00032,2025-09-09,Villa,Residential,Zone D,2746.6,September,Tuesday,2025-09
+WM000610,HH00091,2026-07-10,Villa,Mixed Use,Zone D,7686.3,July,Friday,2026-07
+WM000611,HH00414,2025-03-11,Independent,Residential,Zone A,7853.6,March,Tuesday,2025-03
+WM000612,HH00386,2025-10-25,Hostel,Residential,Zone E,4286.4,October,Saturday,2025-10
+WM000613,HH00292,2026-06-29,Independent,Residential,Zone A,2157.2,June,Monday,2026-06
+WM000614,HH00080,2026-08-06,Hostel,Commercial,Zone E,6983.8,August,Thursday,2026-08
+WM000615,HH00431,2026-08-11,Villa,Mixed Use,Zone E,6983.7,August,Tuesday,2026-08
+WM000616,HH00213,2026-01-02,Independent,Commercial,Zone D,5755.0,January,Friday,2026-01
+WM000617,HH00173,2025-01-25,Villa,Mixed Use,Zone B,11653.6,January,Saturday,2025-01
+WM000618,HH00338,2026-02-06,Independent,Mixed Use,Zone B,4185.9,February,Friday,2026-02
+WM000619,HH00312,2026-09-20,Hostel,Mixed Use,Zone C,6282.2,September,Sunday,2026-09
+WM000620,HH00023,2026-01-17,Hostel,Mixed Use,Zone A,7806.8,January,Saturday,2026-01
+WM000621,HH00281,2026-03-29,Apartment,Residential,Zone D,6402.4,March,Sunday,2026-03
+WM000622,HH00449,2025-05-04,Apartment,Commercial,Zone C,10221.4,May,Sunday,2025-05
+WM000623,HH00305,2026-05-02,Apartment,Residential,Zone C,3039.7,May,Saturday,2026-05
+WM000624,HH00345,2025-04-02,Independent,Commercial,Zone B,10417.0,April,Wednesday,2025-04
+WM000625,HH00303,2025-09-05,Villa,Commercial,Zone A,1664.6,September,Friday,2025-09
+WM000626,HH00151,2025-07-20,Villa,Residential,Zone D,1246.1,July,Sunday,2025-07
+WM000627,HH00091,2025-01-21,Independent,Commercial,Zone D,10517.5,January,Tuesday,2025-01
+WM000628,HH00212,2026-03-25,Hostel,Residential,Zone A,4238.6,March,Wednesday,2026-03
+WM000629,HH00132,2025-03-20,Apartment,Commercial,Zone B,9658.5,March,Thursday,2025-03
+WM000630,HH00070,2026-08-02,Villa,Mixed Use,Zone A,9401.5,August,Sunday,2026-08
+WM000631,HH00282,2026-07-20,Independent,Mixed Use,Zone B,8267.9,July,Monday,2026-07
+WM000632,HH00177,2025-04-14,Apartment,Commercial,Zone D,6402.4,April,Monday,2025-04
+WM000633,HH00312,2025-11-28,Hostel,Residential,Zone C,6402.4,November,Friday,2025-11
+WM000634,HH00142,2025-02-25,Villa,Residential,Zone D,9807.6,February,Tuesday,2025-02
+WM000635,HH00096,2025-05-13,Villa,Mixed Use,Zone C,1628.7,May,Tuesday,2025-05
+WM000636,HH00139,2026-07-21,Villa,Residential,Zone B,6318.8,July,Tuesday,2026-07
+WM000637,HH00004,2025-08-14,Independent,Residential,Zone C,2266.9,August,Thursday,2025-08
+WM000638,HH00347,2025-08-28,Apartment,Commercial,Zone D,1675.6,August,Thursday,2025-08
+WM000639,HH00308,2026-08-29,Independent,Residential,Zone D,5576.8,August,Saturday,2026-08
+WM000640,HH00360,2025-06-18,Independent,Residential,Zone C,4059.6,June,Wednesday,2025-06
+WM000641,HH00302,2025-05-17,Villa,Commercial,Zone D,9939.1,May,Saturday,2025-05
+WM000642,HH00165,2025-01-06,Independent,Residential,Zone D,6111.6,January,Monday,2025-01
+WM000643,HH00397,2026-06-21,Hostel,Mixed Use,Zone C,9022.3,June,Sunday,2026-06
+WM000644,HH00053,2025-05-15,Villa,Commercial,Zone E,8105.3,May,Thursday,2025-05
+WM000645,HH00284,2025-10-16,Villa,Residential,Zone A,11440.0,October,Thursday,2025-10
+WM000646,HH00020,2025-01-29,Villa,Mixed Use,Zone D,3490.2,January,Wednesday,2025-01
+WM000647,HH00335,2025-12-11,Independent,Mixed Use,Zone C,6402.4,December,Thursday,2025-12
+WM000648,HH00428,2026-04-09,Villa,Mixed Use,Zone E,2657.7,April,Thursday,2026-04
+WM000649,HH00278,2025-08-06,Hostel,Residential,Zone A,10416.3,August,Wednesday,2025-08
+WM000650,HH00047,2025-02-15,Hostel,Residential,Zone A,10545.4,February,Saturday,2025-02
+WM000651,HH00037,2025-05-24,Independent,Mixed Use,Zone A,9900.4,May,Saturday,2025-05
+WM000652,HH00294,2026-05-18,Villa,Residential,Zone A,4191.7,May,Monday,2026-05
+WM000653,HH00214,2026-08-11,Apartment,Mixed Use,Zone C,2187.3,August,Tuesday,2026-08
+WM000654,HH00041,2026-04-05,Apartment,Mixed Use,Zone D,10197.3,April,Sunday,2026-04
+WM000655,HH00276,2026-09-09,Independent,Mixed Use,Zone E,7280.2,September,Wednesday,2026-09
+WM000656,HH00357,2025-01-23,Villa,Mixed Use,Zone D,5652.1,January,Thursday,2025-01
+WM000657,HH00287,2026-06-05,Apartment,Commercial,Zone B,5245.1,June,Friday,2026-06
+WM000658,HH00162,2026-10-26,Apartment,Commercial,Zone C,1665.3,October,Monday,2026-10
+WM000659,HH00443,2026-08-13,Villa,Mixed Use,Zone A,7940.0,August,Thursday,2026-08
+WM000660,HH00148,2026-10-18,Apartment,Mixed Use,Zone C,6489.3,October,Sunday,2026-10
+WM000661,HH00447,2025-12-07,Apartment,Mixed Use,Zone D,11554.7,December,Sunday,2025-12
+WM000662,HH00012,2026-09-26,Villa,Mixed Use,Zone B,8263.2,September,Saturday,2026-09
+WM000663,HH00042,2025-10-23,Villa,Mixed Use,Zone C,11604.8,October,Thursday,2025-10
+WM000664,HH00434,2025-06-14,Villa,Residential,Zone B,2108.2,June,Saturday,2025-06
+WM000665,HH00059,2026-07-29,Villa,Residential,Zone E,8348.7,July,Wednesday,2026-07
+WM000666,HH00218,2026-03-24,Hostel,Residential,Zone A,9864.3,March,Tuesday,2026-03
+WM000667,HH00301,2026-04-05,Hostel,Residential,Zone D,7528.2,April,Sunday,2026-04
+WM000668,HH00068,2025-10-27,Villa,Mixed Use,Zone A,7570.8,October,Monday,2025-10
+WM000669,HH00075,2026-10-28,Villa,Residential,Zone C,2291.2,October,Wednesday,2026-10
+WM000670,HH00058,2025-08-12,Villa,Mixed Use,Zone D,4194.0,August,Tuesday,2025-08
+WM000671,HH00316,2026-02-14,Independent,Residential,Zone C,7774.3,February,Saturday,2026-02
+WM000672,HH00306,2025-10-12,Apartment,Residential,Zone C,5939.6,October,Sunday,2025-10
+WM000673,HH00331,2025-08-12,Villa,Mixed Use,Zone D,10424.9,August,Tuesday,2025-08
+WM000674,HH00094,2026-04-11,Hostel,Mixed Use,Zone D,9438.8,April,Saturday,2026-04
+WM000675,HH00402,2025-03-30,Villa,Commercial,Zone A,6651.8,March,Sunday,2025-03
+WM000676,HH00223,2025-03-14,Independent,Commercial,Zone B,7536.6,March,Friday,2025-03
+WM000677,HH00118,2026-03-10,Villa,Residential,Zone C,8048.2,March,Tuesday,2026-03
+WM000678,HH00087,2025-10-25,Independent,Residential,Zone E,8035.0,October,Saturday,2025-10
+WM000679,HH00181,2025-04-06,Hostel,Commercial,Zone D,8504.9,April,Sunday,2025-04
+WM000680,HH00173,2026-09-19,Villa,Residential,Zone B,6217.5,September,Saturday,2026-09
+WM000681,HH00375,2026-09-19,Independent,Commercial,Zone E,1923.8,September,Saturday,2026-09
+WM000682,HH00344,2026-02-13,Hostel,Mixed Use,Zone B,11484.1,February,Friday,2026-02
+WM000683,HH00291,2025-09-08,Apartment,Commercial,Zone E,689.2,September,Monday,2025-09
+WM000684,HH00013,2026-09-06,Independent,Mixed Use,Zone C,690.7,September,Sunday,2026-09
+WM000685,HH00210,2025-05-15,Apartment,Residential,Zone D,11291.7,May,Thursday,2025-05
+WM000686,HH00103,2025-01-18,Villa,Residential,Zone C,6185.4,January,Saturday,2025-01
+WM000687,HH00259,2026-02-11,Villa,Commercial,Zone D,9901.9,February,Wednesday,2026-02
+WM000688,HH00414,2026-01-15,Villa,Mixed Use,Zone D,4935.7,January,Thursday,2026-01
+WM000689,HH00403,2025-07-06,Hostel,Commercial,Zone C,5455.8,July,Sunday,2025-07
+WM000690,HH00296,2026-04-12,Apartment,Mixed Use,Zone C,8611.8,April,Sunday,2026-04
+WM000691,HH00094,2025-06-05,Apartment,Commercial,Zone C,6402.4,June,Thursday,2025-06
+WM000692,HH00397,2025-08-15,Independent,Residential,Zone E,10857.1,August,Friday,2025-08
+WM000693,HH00284,2025-04-05,Apartment,Residential,Zone C,8452.2,April,Saturday,2025-04
+WM000694,HH00011,2025-03-24,Apartment,Commercial,Zone C,6563.6,March,Monday,2025-03
+WM000695,HH00016,2025-03-15,Apartment,Residential,Zone B,10042.0,March,Saturday,2025-03
+WM000696,HH00395,2025-03-02,Apartment,Residential,Zone A,6766.3,March,Sunday,2025-03
+WM000697,HH00050,2025-05-14,Hostel,Commercial,Zone A,3945.6,May,Wednesday,2025-05
+WM000698,HH00351,2025-12-28,Apartment,Commercial,Zone C,6402.4,December,Sunday,2025-12
+WM000699,HH00011,2025-09-20,Apartment,Commercial,Zone A,4531.3,September,Saturday,2025-09
+WM000700,HH00057,2025-05-09,Independent,Residential,Zone D,7797.5,May,Friday,2025-05
+WM000701,HH00005,2025-03-23,Villa,Commercial,Zone B,11789.4,March,Sunday,2025-03
+WM000702,HH00199,2025-02-03,Villa,Residential,Zone C,9073.7,February,Monday,2025-02
+WM000703,HH00364,2026-02-25,Hostel,Commercial,Zone C,7618.1,February,Wednesday,2026-02
+WM000704,HH00175,2026-07-10,Apartment,Commercial,Zone B,2827.5,July,Friday,2026-07
+WM000705,HH00147,2025-06-13,Hostel,Commercial,Zone D,8630.5,June,Friday,2025-06
+WM000706,HH00388,2026-06-23,Independent,Mixed Use,Zone C,6514.0,June,Tuesday,2026-06
+WM000707,HH00252,2026-04-26,Hostel,Commercial,Zone B,8998.1,April,Sunday,2026-04
+WM000708,HH00298,2026-05-15,Villa,Residential,Zone D,4703.0,May,Friday,2026-05
+WM000709,HH00330,2025-07-14,Independent,Commercial,Zone B,5998.5,July,Monday,2025-07
+WM000710,HH00332,2026-01-02,Apartment,Commercial,Zone D,6549.3,January,Friday,2026-01
+WM000711,HH00073,2026-01-14,Apartment,Residential,Zone A,4664.1,January,Wednesday,2026-01
+WM000712,HH00411,2025-12-12,Independent,Mixed Use,Zone C,7155.2,December,Friday,2025-12
+WM000713,HH00287,2026-05-14,Apartment,Commercial,Zone C,3678.3,May,Thursday,2026-05
+WM000714,HH00141,2026-01-03,Villa,Mixed Use,Zone B,1377.9,January,Saturday,2026-01
+WM000715,HH00289,2026-01-22,Villa,Commercial,Zone E,2551.4,January,Thursday,2026-01
+WM000716,HH00031,2026-06-01,Villa,Residential,Zone E,6182.9,June,Monday,2026-06
+WM000717,HH00378,2025-06-20,Hostel,Residential,Zone D,1271.8,June,Friday,2025-06
+WM000718,HH00196,2026-03-18,Independent,Residential,Zone B,4946.8,March,Wednesday,2026-03
+WM000719,HH00027,2026-04-01,Apartment,Residential,Zone B,8270.4,April,Wednesday,2026-04
+WM000720,HH00422,2025-04-07,Independent,Commercial,Zone B,6389.5,April,Monday,2025-04
+WM000721,HH00196,2026-04-27,Independent,Commercial,Zone D,6866.1,April,Monday,2026-04
+WM000722,HH00304,2025-08-21,Hostel,Mixed Use,Zone D,8831.1,August,Thursday,2025-08
+WM000723,HH00337,2026-04-10,Villa,Commercial,Zone A,1890.3,April,Friday,2026-04
+WM000724,HH00017,2026-04-03,Hostel,Mixed Use,Zone C,3533.8,April,Friday,2026-04
+WM000725,HH00172,2025-06-28,Independent,Residential,Zone C,5359.0,June,Saturday,2025-06
+WM000726,HH00442,2026-01-04,Independent,Commercial,Zone B,3583.6,January,Sunday,2026-01
+WM000727,HH00248,2025-12-08,Hostel,Residential,Zone A,5546.2,December,Monday,2025-12
+WM000728,HH00243,2026-09-16,Villa,Residential,Zone A,10777.0,September,Wednesday,2026-09
+WM000729,HH00435,2025-04-27,Apartment,Residential,Zone E,1816.1,April,Sunday,2025-04
+WM000730,HH00178,2025-07-06,Villa,Mixed Use,Zone C,3888.0,July,Sunday,2025-07
+WM000731,HH00204,2025-09-30,Apartment,Mixed Use,Zone A,10473.9,September,Tuesday,2025-09
+WM000732,HH00223,2026-04-29,Apartment,Mixed Use,Zone E,6997.5,April,Wednesday,2026-04
+WM000733,HH00395,2025-06-05,Apartment,Mixed Use,Zone E,11654.9,June,Thursday,2025-06
+WM000734,HH00242,2026-04-21,Apartment,Commercial,Zone E,2483.3,April,Tuesday,2026-04
+WM000735,HH00287,2025-04-09,Independent,Residential,Zone C,9190.8,April,Wednesday,2025-04
+WM000736,HH00414,2026-05-21,Apartment,Mixed Use,Zone D,10149.5,May,Thursday,2026-05
+WM000737,HH00088,2026-05-24,Villa,Residential,Zone E,11523.1,May,Sunday,2026-05
+WM000738,HH00164,2026-03-06,Apartment,Commercial,Zone C,2314.6,March,Friday,2026-03
+WM000739,HH00276,2026-10-21,Apartment,Commercial,Zone E,6661.1,October,Wednesday,2026-10
+WM000740,HH00298,2026-08-18,Apartment,Mixed Use,Zone E,5134.8,August,Tuesday,2026-08
+WM000741,HH00090,2026-04-03,Independent,Commercial,Zone D,7468.6,April,Friday,2026-04
+WM000742,HH00052,2026-06-07,Apartment,Residential,Zone E,1414.1,June,Sunday,2026-06
+WM000743,HH00198,2026-03-15,Villa,Residential,Zone C,5948.8,March,Sunday,2026-03
+WM000744,HH00191,2026-06-30,Independent,Mixed Use,Zone B,833.2,June,Tuesday,2026-06
+WM000745,HH00143,2026-06-25,Hostel,Mixed Use,Zone E,4058.9,June,Thursday,2026-06
+WM000746,HH00418,2025-10-26,Villa,Residential,Zone C,9947.2,October,Sunday,2025-10
+WM000747,HH00091,2025-04-08,Independent,Mixed Use,Zone D,5871.6,April,Tuesday,2025-04
+WM000748,HH00343,2025-02-16,Independent,Residential,Zone E,10290.1,February,Sunday,2025-02
+WM000749,HH00409,2025-07-12,Apartment,Mixed Use,Zone A,6402.4,July,Saturday,2025-07
+WM000750,HH00418,2026-01-01,Villa,Mixed Use,Zone E,8550.4,January,Thursday,2026-01
+WM000751,HH00392,2025-07-13,Villa,Residential,Zone D,1189.6,July,Sunday,2025-07
+WM000752,HH00058,2025-11-17,Independent,Residential,Zone E,2286.9,November,Monday,2025-11
+WM000753,HH00332,2025-05-16,Independent,Mixed Use,Zone B,9741.5,May,Friday,2025-05
+WM000754,HH00210,2026-09-14,Villa,Mixed Use,Zone E,726.6,September,Monday,2026-09
+WM000755,HH00449,2025-10-15,Villa,Commercial,Zone A,4876.6,October,Wednesday,2025-10
+WM000756,HH00236,2026-03-30,Independent,Mixed Use,Zone B,11267.4,March,Monday,2026-03
+WM000757,HH00079,2026-01-07,Hostel,Commercial,Zone C,2284.9,January,Wednesday,2026-01
+WM000758,HH00043,2026-06-14,Independent,Commercial,Zone C,11400.3,June,Sunday,2026-06
+WM000759,HH00309,2026-01-16,Independent,Mixed Use,Zone E,2750.7,January,Friday,2026-01
+WM000760,HH00234,2026-04-13,Hostel,Residential,Zone A,3604.4,April,Monday,2026-04
+WM000761,HH00150,2026-07-15,Villa,Mixed Use,Zone E,7838.2,July,Wednesday,2026-07
+WM000762,HH00171,2026-03-02,Independent,Mixed Use,Zone C,575.1,March,Monday,2026-03
+WM000763,HH00349,2026-03-03,Villa,Mixed Use,Zone D,8654.3,March,Tuesday,2026-03
+WM000764,HH00005,2026-09-04,Independent,Commercial,Zone A,10890.6,September,Friday,2026-09
+WM000765,HH00079,2026-04-23,Apartment,Mixed Use,Zone A,4592.0,April,Thursday,2026-04
+WM000766,HH00049,2025-02-14,Apartment,Mixed Use,Zone C,7461.7,February,Friday,2025-02
+WM000767,HH00239,2026-06-20,Hostel,Commercial,Zone C,4608.9,June,Saturday,2026-06
+WM000768,HH00220,2026-08-08,Hostel,Mixed Use,Zone C,8457.0,August,Saturday,2026-08
+WM000769,HH00350,2026-02-03,Hostel,Residential,Zone A,6559.6,February,Tuesday,2026-02
+WM000770,HH00049,2026-06-22,Independent,Residential,Zone D,6280.6,June,Monday,2026-06
+WM000771,HH00219,2025-02-25,Independent,Residential,Zone B,1101.3,February,Tuesday,2025-02
+WM000772,HH00180,2026-10-27,Villa,Residential,Zone B,8108.9,October,Tuesday,2026-10
+WM000773,HH00345,2026-08-05,Independent,Mixed Use,Zone A,6319.0,August,Wednesday,2026-08
+WM000774,HH00444,2025-04-01,Villa,Residential,Zone E,4190.2,April,Tuesday,2025-04
+WM000775,HH00090,2026-03-16,Independent,Commercial,Zone D,6016.8,March,Monday,2026-03
+WM000776,HH00198,2026-07-18,Hostel,Mixed Use,Zone A,4300.7,July,Saturday,2026-07
+WM000777,HH00234,2026-05-08,Hostel,Residential,Zone A,3617.5,May,Friday,2026-05
+WM000778,HH00254,2025-06-13,Hostel,Mixed Use,Zone D,1893.9,June,Friday,2025-06
+WM000779,HH00099,2025-06-04,Hostel,Residential,Zone D,3028.2,June,Wednesday,2025-06
+WM000780,HH00188,2025-02-11,Apartment,Residential,Zone E,1991.4,February,Tuesday,2025-02
+WM000781,HH00327,2025-12-29,Hostel,Mixed Use,Zone E,616.3,December,Monday,2025-12
+WM000782,HH00049,2025-06-18,Apartment,Commercial,Zone E,8984.2,June,Wednesday,2025-06
+WM000783,HH00332,2026-01-18,Villa,Mixed Use,Zone E,1586.1,January,Sunday,2026-01
+WM000784,HH00364,2025-04-10,Hostel,Mixed Use,Zone C,5040.9,April,Thursday,2025-04
+WM000785,HH00433,2025-10-03,Hostel,Commercial,Zone E,7946.2,October,Friday,2025-10
+WM000786,HH00330,2025-07-11,Independent,Commercial,Zone A,8638.6,July,Friday,2025-07
+WM000787,HH00115,2025-04-03,Villa,Mixed Use,Zone C,1381.4,April,Thursday,2025-04
+WM000788,HH00200,2026-09-05,Hostel,Mixed Use,Zone A,10637.1,September,Saturday,2026-09
+WM000789,HH00360,2025-03-15,Apartment,Mixed Use,Zone D,1529.1,March,Saturday,2025-03
+WM000790,HH00086,2026-03-15,Independent,Mixed Use,Zone D,6402.4,March,Sunday,2026-03
+WM000791,HH00333,2025-10-22,Apartment,Commercial,Zone E,9955.8,October,Wednesday,2025-10
+WM000792,HH00329,2026-01-17,Independent,Residential,Zone A,5764.7,January,Saturday,2026-01
+WM000793,HH00034,2025-07-02,Hostel,Commercial,Zone D,11996.0,July,Wednesday,2025-07
+WM000794,HH00148,2026-08-07,Apartment,Commercial,Zone A,8617.0,August,Friday,2026-08
+WM000795,HH00143,2025-08-24,Villa,Mixed Use,Zone A,4396.4,August,Sunday,2025-08
+WM000796,HH00219,2026-08-25,Hostel,Residential,Zone C,1376.4,August,Tuesday,2026-08
+WM000797,HH00334,2025-09-12,Hostel,Residential,Zone E,9988.8,September,Friday,2025-09
+WM000798,HH00115,2026-10-07,Apartment,Residential,Zone A,10510.7,October,Wednesday,2026-10
+WM000799,HH00026,2026-05-06,Hostel,Residential,Zone B,7752.4,May,Wednesday,2026-05
+WM000800,HH00190,2026-08-10,Villa,Mixed Use,Zone E,4303.0,August,Monday,2026-08
+WM000801,HH00422,2025-03-21,Hostel,Residential,Zone E,7007.4,March,Friday,2025-03
+WM000802,HH00410,2026-07-02,Villa,Residential,Zone C,531.5,July,Thursday,2026-07
+WM000803,HH00190,2026-04-27,Hostel,Commercial,Zone B,5299.8,April,Monday,2026-04
+WM000804,HH00135,2025-01-22,Independent,Commercial,Zone E,11842.7,January,Wednesday,2025-01
+WM000805,HH00167,2025-02-09,Apartment,Residential,Zone C,2951.1,February,Sunday,2025-02
+WM000806,HH00175,2026-01-08,Independent,Residential,Zone B,8353.6,January,Thursday,2026-01
+WM000807,HH00122,2026-03-04,Villa,Residential,Zone B,1706.9,March,Wednesday,2026-03
+WM000808,HH00228,2025-09-20,Apartment,Residential,Zone E,8893.8,September,Saturday,2025-09
+WM000809,HH00242,2026-09-10,Apartment,Mixed Use,Zone C,5560.0,September,Thursday,2026-09
+WM000810,HH00128,2025-02-11,Apartment,Residential,Zone E,6402.4,February,Tuesday,2025-02
+WM000811,HH00317,2025-08-23,Hostel,Residential,Zone A,6314.2,August,Saturday,2025-08
+WM000812,HH00435,2025-03-02,Hostel,Residential,Zone C,9914.6,March,Sunday,2025-03
+WM000813,HH00335,2026-10-26,Hostel,Commercial,Zone C,10141.2,October,Monday,2026-10
+WM000814,HH00047,2025-10-14,Independent,Commercial,Zone A,4558.2,October,Tuesday,2025-10
+WM000815,HH00195,2025-01-20,Villa,Commercial,Zone E,7777.9,January,Monday,2025-01
+WM000816,HH00056,2026-09-25,Apartment,Commercial,Zone A,4214.5,September,Friday,2026-09
+WM000817,HH00155,2026-05-06,Villa,Commercial,Zone A,5695.7,May,Wednesday,2026-05
+WM000818,HH00283,2025-11-01,Independent,Commercial,Zone E,8047.1,November,Saturday,2025-11
+WM000819,HH00422,2026-02-02,Independent,Commercial,Zone B,3440.5,February,Monday,2026-02
+WM000820,HH00274,2026-06-02,Villa,Commercial,Zone C,4235.9,June,Tuesday,2026-06
+WM000821,HH00104,2025-06-19,Independent,Residential,Zone A,2408.0,June,Thursday,2025-06
+WM000822,HH00128,2025-05-23,Villa,Residential,Zone B,7417.5,May,Friday,2025-05
+WM000823,HH00231,2026-07-22,Hostel,Mixed Use,Zone E,10224.1,July,Wednesday,2026-07
+WM000824,HH00035,2025-06-07,Apartment,Mixed Use,Zone B,11058.2,June,Saturday,2025-06
+WM000825,HH00099,2026-03-20,Hostel,Mixed Use,Zone E,11340.6,March,Friday,2026-03
+WM000826,HH00060,2026-07-18,Independent,Mixed Use,Zone E,9464.6,July,Saturday,2026-07
+WM000827,HH00448,2025-02-09,Villa,Mixed Use,Zone E,5940.0,February,Sunday,2025-02
+WM000828,HH00100,2025-07-14,Villa,Commercial,Zone E,9843.7,July,Monday,2025-07
+WM000829,HH00225,2025-02-02,Hostel,Commercial,Zone C,3440.8,February,Sunday,2025-02
+WM000830,HH00180,2026-03-11,Hostel,Commercial,Zone B,6375.6,March,Wednesday,2026-03
+WM000831,HH00327,2025-05-10,Apartment,Commercial,Zone D,11062.7,May,Saturday,2025-05
+WM000832,HH00252,2025-01-02,Villa,Residential,Zone C,7148.1,January,Thursday,2025-01
+WM000833,HH00121,2026-06-28,Hostel,Residential,Zone A,7527.2,June,Sunday,2026-06
+WM000834,HH00279,2025-01-19,Apartment,Mixed Use,Zone E,7645.0,January,Sunday,2025-01
+WM000835,HH00372,2026-01-09,Villa,Commercial,Zone E,9743.3,January,Friday,2026-01
+WM000836,HH00313,2025-11-14,Hostel,Mixed Use,Zone D,1467.4,November,Friday,2025-11
+WM000837,HH00114,2025-07-22,Independent,Residential,Zone C,4798.0,July,Tuesday,2025-07
+WM000838,HH00022,2026-01-30,Independent,Commercial,Zone D,11269.9,January,Friday,2026-01
+WM000839,HH00320,2026-02-09,Independent,Mixed Use,Zone A,11598.7,February,Monday,2026-02
+WM000840,HH00246,2025-02-22,Villa,Commercial,Zone E,6927.0,February,Saturday,2025-02
+WM000841,HH00031,2025-02-28,Apartment,Mixed Use,Zone E,3950.3,February,Friday,2025-02
+WM000842,HH00020,2026-06-11,Apartment,Commercial,Zone E,10292.7,June,Thursday,2026-06
+WM000843,HH00062,2025-04-21,Apartment,Residential,Zone C,10745.1,April,Monday,2025-04
+WM000844,HH00293,2025-02-13,Hostel,Commercial,Zone D,3918.7,February,Thursday,2025-02
+WM000845,HH00114,2025-05-06,Hostel,Commercial,Zone A,8942.6,May,Tuesday,2025-05
+WM000846,HH00144,2026-03-17,Independent,Commercial,Zone C,11438.5,March,Tuesday,2026-03
+WM000847,HH00448,2025-05-02,Villa,Mixed Use,Zone C,5470.1,May,Friday,2025-05
+WM000848,HH00273,2026-03-28,Villa,Commercial,Zone E,1437.4,March,Saturday,2026-03
+WM000849,HH00037,2026-09-28,Apartment,Commercial,Zone E,10085.5,September,Monday,2026-09
+WM000512,HH00358,2026-02-10,Hostel,Residential,Zone C,6418.5,February,Tuesday,2026-02
+WM000357,HH00417,2025-10-14,Villa,Residential,Zone B,10875.9,October,Tuesday,2025-10
+WM000110,HH00088,2025-12-31,Apartment,Mixed Use,Zone B,8847.1,December,Wednesday,2025-12
+WM000684,HH00013,2026-09-06,Independent,Mixed Use,Zone C,690.7,September,Sunday,2026-09
+WM000039,HH00181,2026-08-11,Hostel,Commercial,Zone E,7769.7,August,Tuesday,2026-08
+WM000066,HH00386,2025-12-25,Apartment,Mixed Use,Zone D,2881.5,December,Thursday,2025-12
+WM000756,HH00236,2026-03-30,Independent,Mixed Use,Zone B,11267.4,March,Monday,2026-03
+WM000260,HH00354,2026-09-05,Independent,Residential,Zone B,11578.4,September,Saturday,2026-09
+WM000790,HH00086,2026-03-15,Independent,Mixed Use,Zone D,6402.4,March,Sunday,2026-03
+WM000467,HH00125,2026-06-03,Apartment,Residential,Zone A,4950.0,June,Wednesday,2026-06
+WM000705,HH00147,2025-06-13,Hostel,Commercial,Zone D,8630.5,June,Friday,2025-06
+WM000447,HH00430,2025-10-16,Villa,Residential,Zone D,10384.4,October,Thursday,2025-10
